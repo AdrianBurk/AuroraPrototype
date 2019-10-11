@@ -1,0 +1,1143 @@
+﻿Log file open, 10/10/19 21:41:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Test2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.349301
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.167s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.10.11-02.41.17:014][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.11-02.41.17:014][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.11-02.41.17:050][  0]LogHAL: Display: Platform has ~ 16 GB [17066803200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.11-02.41.17:050][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.10.11-02.41.17:050][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.11-02.41.17:057][  0]LogInit: Computer: ADRIANSPC
+[2019.10.11-02.41.17:057][  0]LogInit: User: AdrianBurk
+[2019.10.11-02.41.17:057][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.11-02.41.17:057][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.11-02.41.17:058][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.11-02.41.17:058][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.11-02.41.17:058][  0]LogMemory: Process Physical Memory: 100.94 MB used, 100.94 MB peak
+[2019.10.11-02.41.17:058][  0]LogMemory: Process Virtual Memory: 89.43 MB used, 89.43 MB peak
+[2019.10.11-02.41.17:058][  0]LogMemory: Physical Memory: 6184.97 MB used,  10091.20 MB free, 16276.17 MB total
+[2019.10.11-02.41.17:058][  0]LogMemory: Virtual Memory: 4626.86 MB used,  10091.20 MB free, 134217728.00 MB total
+[2019.10.11-02.41.17:316][  0]LogInit: Using OS detected language (en-US).
+[2019.10.11-02.41.17:316][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.11-02.41.17:317][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.11-02.41.17:923][  0]LogStreaming: Display: Took  0.608s to InitEngineTextLocalization.
+[2019.10.11-02.41.17:924][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.11-02.41.18:049][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.11-02.41.18:049][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.11-02.41.21:311][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.11-02.41.21:311][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.11-02.41.21:752][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.10.11-02.41.21:752][  0]LogD3D11RHI:       6052/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.11-02.41.21:775][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.10.11-02.41.21:775][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.11-02.41.21:780][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.11-02.41.21:780][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.11-02.41.21:780][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.11-02.41.21:791][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.11-02.41.21:791][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.11-02.41.21:791][  0]LogWindows: EnumDisplayDevices:
+[2019.10.11-02.41.21:791][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2019.10.11-02.41.21:791][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.10.11-02.41.21:792][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.10.11-02.41.21:793][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2019.10.11-02.41.21:793][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.10.11-02.41.21:793][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.10.11-02.41.21:793][  0]LogD3D11RHI:   Driver Version: 436.48 (internal:26.21.14.3648, unified:436.48)
+[2019.10.11-02.41.21:793][  0]LogD3D11RHI:      Driver Date: 9-26-2019
+[2019.10.11-02.41.21:793][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.10.11-02.41.21:864][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.11-02.41.21:924][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.11-02.41.21:978][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Intermediate/Shaders/WorkingDirectory/4432/).
+[2019.10.11-02.41.21:979][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Adrian Burk/AppData/Local/Temp/UnrealShaderWorkingDir/8A0AA61D459AA58FB22B42AC8908C132/'.
+[2019.10.11-02.41.22:511][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.10.11-02.41.22:532][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.10.11-02.41.22:551][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.10.11-02.41.22:570][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.10.11-02.41.22:597][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.10.11-02.41.22:614][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.10.11-02.41.22:632][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.10.11-02.41.22:652][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.10.11-02.41.22:661][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:794][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.11-02.41.22:796][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.10.11-02.41.22:880][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.11-02.41.22:880][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.11-02.41.22:919][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.11-02.41.22:919][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.11-02.41.22:936][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.10.11-02.41.22:955][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.10.11-02.41.22:978][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.10.11-02.41.23:011][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.10.11-02.41.23:029][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.10.11-02.41.23:029][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.11-02.41.23:190][  0]LogXGEController: Cleaning working directory: C:/Users/Adrian Burk/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.11-02.41.23:190][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.11-02.41.23:191][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.11-02.41.23:191][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.11-02.41.26:304][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.11-02.41.26:397][  0]LogDerivedDataCache: Loaded boot cache 0.09s 87MB C:/Users/Adrian Burk/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.10.11-02.41.26:397][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Adrian Burk/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.10.11-02.41.26:397][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.11-02.41.26:397][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.11-02.41.26:397][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.11-02.41.26:397][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.11-02.41.26:427][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.11-02.41.26:440][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Adrian Burk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.11-02.41.26:440][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.11-02.41.26:440][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.11-02.41.26:469][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.11-02.41.26:471][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.11-02.41.26:493][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.11-02.41.26:765][  0]LogAssetRegistry: FAssetRegistry took 0.0304 seconds to start up
+[2019.10.11-02.41.27:251][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.11-02.41.27:597][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.10.11-02.41.27:601][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.10.11-02.41.27:601][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.11-02.41.27:601][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.11-02.41.27:601][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.10.11-02.41.27:650][  0]LogNetVersion: Test2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1322228424)
+[2019.10.11-02.41.29:155][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.174609 seconds
+[2019.10.11-02.41.29:165][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.10.11-02.41.29:165][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.10.11-02.41.29:165][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.11-02.41.32:552][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.11-02.41.32:568][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.11-02.41.32:841][  0]SourceControl: Source control is disabled
+[2019.10.11-02.41.32:841][  0]SourceControl: Source control is disabled
+[2019.10.11-02.41.32:843][  0]SourceControl: Source control is disabled
+[2019.10.11-02.41.32:844][  0]SourceControl: Source control is disabled
+[2019.10.11-02.41.33:071][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.11-02.41.33:462][  0]LogOcInput: OculusInput pre-init called
+[2019.10.11-02.41.33:570][  0]LogEngine: Initializing Engine...
+[2019.10.11-02.41.33:571][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.11-02.41.33:574][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.11-02.41.33:574][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.11-02.41.33:574][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.11-02.41.33:574][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.11-02.41.34:109][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.11-02.41.34:124][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.11-02.41.34:237][  0]LogInit: XAudio2 using 'M260VA (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.11-02.41.34:265][  0]LogInit: FAudioDevice initialized.
+[2019.10.11-02.41.34:265][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.11-02.41.34:458][  0]LogDerivedDataCache: Saved boot cache 0.19s 71MB C:/Users/Adrian Burk/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.10.11-02.41.34:464][  0]LogInit: Texture streaming: Enabled
+[2019.10.11-02.41.34:482][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.11-02.41.34:498][  0]LogInit: Transaction tracking system initialized
+[2019.10.11-02.41.34:521][  0]BlueprintLog: New page: Editor Load
+[2019.10.11-02.41.34:620][  0]LocalizationService: Localization service is disabled
+[2019.10.11-02.41.35:258][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.11-02.41.35:258][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.11-02.41.35:258][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.10.11-02.41.35:258][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.11-02.41.35:258][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.11-02.41.35:258][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.11-02.41.35:258][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.11-02.41.35:511][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/' took 0.02s
+[2019.10.11-02.41.35:511][  0]SourceControl: Source control is disabled
+[2019.10.11-02.41.35:512][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.11-02.41.35:512][  0]LightingResults: New page: Lighting Build
+[2019.10.11-02.41.35:515][  0]MapCheck: New page: Map Check
+[2019.10.11-02.41.35:515][  0]LightingResults: New page: Lighting Build
+[2019.10.11-02.41.35:754][  0]LogAIModule: Creating AISystem for world hall
+[2019.10.11-02.41.35:768][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.11-02.41.35:796][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.11-02.41.35:911][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115.552ms to complete.
+[2019.10.11-02.41.35:911][  0]LogFileHelpers: Loading map 'hall' took 0.399
+[2019.10.11-02.41.36:095][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-02.41.36:106][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-02.41.36:117][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-02.41.36:130][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-02.41.36:142][  0]LogCollectionManager: Loaded 0 collections in 0.000993 seconds
+[2019.10.11-02.41.36:186][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/Collections/' took 0.01s
+[2019.10.11-02.41.36:186][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/Developers/AdrianBurk/Collections/' took 0.01s
+[2019.10.11-02.41.36:186][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/Collections/' took 0.01s
+[2019.10.11-02.41.36:186][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.11-02.41.36:200][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 2572 classes and 603 folders.
+[2019.10.11-02.41.36:206][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.11-02.41.36:585][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.11-02.41.36:591][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.10.11-02.41.36:631][  0]LogSlate: Took 0.007142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.11-02.41.36:638][  0]LogSlate: Took 0.005860 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.11-02.41.36:653][  0]LogSlate: Took 0.008980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.11-02.41.36:826][  0]LogRenderer: Reallocating scene render targets to support 852x372 Format 10 NumSamples 1 (Frame:1).
+[2019.10.11-02.41.37:000][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.10.11-02.41.37:000][  0]LogLoad: (Engine Initialization) Total time: 23.92 seconds
+[2019.10.11-02.41.37:000][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.11-02.41.37:047][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.11-02.41.37:075][  0]LogSlate: Took 0.007600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.11-02.41.37:104][  1]LogAssetRegistry: Asset discovery search completed in 10.3641 seconds
+[2019.10.11-02.41.37:107][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.10.11-02.41.37:107][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000106 seconds (updated 0 objects)
+[2019.10.11-02.41.40:037][287]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.11-02.41.42:087][471]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/' took 5.06s
+[2019.10.11-02.41.46:810][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.11-02.41.46:934][934]AssetReimport: New page: Outstanding source content changes 4:41:46 PM
+[2019.10.11-02.41.46:974][935]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/207930__klankbeeld__bang-prison-door-loop-130903-00.wav)
+[2019.10.11-02.41.47:001][935]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/207930__klankbeeld__bang-prison-door-loop-130903-00.wav)
+[2019.10.11-02.41.47:026][935]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/207930__klankbeeld__bang-prison-door-loop-130903-00.wav)
+[2019.10.11-02.41.47:048][935]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/207930__klankbeeld__bang-prison-door-loop-130903-00.wav)
+[2019.10.11-02.41.47:070][935]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/207930__klankbeeld__bang-prison-door-loop-130903-00.wav)
+[2019.10.11-02.41.47:091][935]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/207930__klankbeeld__bang-prison-door-loop-130903-00.wav)
+[2019.10.11-02.41.47:210][936]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/210754__yuval__banging-on-metal.wav)
+[2019.10.11-02.41.47:339][936]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/210754__yuval__banging-on-metal.wav)
+[2019.10.11-02.41.47:460][936]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/210754__yuval__banging-on-metal.wav)
+[2019.10.11-02.41.47:570][936]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/210754__yuval__banging-on-metal.wav)
+[2019.10.11-02.41.47:676][936]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/210754__yuval__banging-on-metal.wav)
+[2019.10.11-02.41.47:789][936]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/210754__yuval__banging-on-metal.wav)
+[2019.10.11-02.41.47:822][937]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/256519__kodack__mask-breathing-sound.wav)
+[2019.10.11-02.41.47:873][938]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/411691__deoking__pipeburst.wav)
+[2019.10.11-02.41.47:962][939]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/BulbHumGain+.wav)
+[2019.10.11-02.41.48:007][939]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/BulbHumGain+.wav)
+[2019.10.11-02.41.48:046][939]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/BulbHumGain+.wav)
+[2019.10.11-02.41.48:082][939]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/BulbHumGain+.wav)
+[2019.10.11-02.41.48:116][939]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/BulbHumGain+.wav)
+[2019.10.11-02.41.48:152][939]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/BulbHumGain+.wav)
+[2019.10.11-02.41.48:170][940]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/HydraulicDoorClose.wav)
+[2019.10.11-02.41.48:174][940]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/HydraulicDoorClose.wav)
+[2019.10.11-02.41.48:177][940]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/HydraulicDoorClose.wav)
+[2019.10.11-02.41.48:180][940]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/HydraulicDoorClose.wav)
+[2019.10.11-02.41.48:183][940]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/HydraulicDoorClose.wav)
+[2019.10.11-02.41.48:186][940]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/HydraulicDoorClose.wav)
+[2019.10.11-02.41.48:203][941]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/HydraulicDoorOpen.wav)
+[2019.10.11-02.41.48:207][941]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/HydraulicDoorOpen.wav)
+[2019.10.11-02.41.48:209][941]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/HydraulicDoorOpen.wav)
+[2019.10.11-02.41.48:211][941]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/HydraulicDoorOpen.wav)
+[2019.10.11-02.41.48:214][941]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/HydraulicDoorOpen.wav)
+[2019.10.11-02.41.48:215][941]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/HydraulicDoorOpen.wav)
+[2019.10.11-02.41.48:231][942]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep01.wav)
+[2019.10.11-02.41.48:232][942]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep01.wav)
+[2019.10.11-02.41.48:232][942]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep01.wav)
+[2019.10.11-02.41.48:233][942]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep01.wav)
+[2019.10.11-02.41.48:234][942]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep01.wav)
+[2019.10.11-02.41.48:235][942]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep01.wav)
+[2019.10.11-02.41.48:240][942]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep02.wav)
+[2019.10.11-02.41.48:241][942]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep02.wav)
+[2019.10.11-02.41.48:242][942]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep02.wav)
+[2019.10.11-02.41.48:243][942]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep02.wav)
+[2019.10.11-02.41.48:243][942]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep02.wav)
+[2019.10.11-02.41.48:244][942]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep02.wav)
+[2019.10.11-02.41.48:259][943]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep03.wav)
+[2019.10.11-02.41.48:260][943]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep03.wav)
+[2019.10.11-02.41.48:261][943]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep03.wav)
+[2019.10.11-02.41.48:262][943]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep03.wav)
+[2019.10.11-02.41.48:263][943]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep03.wav)
+[2019.10.11-02.41.48:264][943]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep03.wav)
+[2019.10.11-02.41.48:267][943]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep04.wav)
+[2019.10.11-02.41.48:268][943]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep04.wav)
+[2019.10.11-02.41.48:270][943]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep04.wav)
+[2019.10.11-02.41.48:272][943]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep04.wav)
+[2019.10.11-02.41.48:273][943]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep04.wav)
+[2019.10.11-02.41.48:274][943]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep04.wav)
+[2019.10.11-02.41.48:292][944]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep05.wav)
+[2019.10.11-02.41.48:293][944]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep05.wav)
+[2019.10.11-02.41.48:294][944]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep05.wav)
+[2019.10.11-02.41.48:295][944]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep05.wav)
+[2019.10.11-02.41.48:296][944]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep05.wav)
+[2019.10.11-02.41.48:297][944]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep05.wav)
+[2019.10.11-02.41.48:301][944]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep06.wav)
+[2019.10.11-02.41.48:302][944]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep06.wav)
+[2019.10.11-02.41.48:305][944]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep06.wav)
+[2019.10.11-02.41.48:306][944]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep06.wav)
+[2019.10.11-02.41.48:306][944]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep06.wav)
+[2019.10.11-02.41.48:307][944]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep06.wav)
+[2019.10.11-02.41.48:326][945]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Steam01.wav)
+[2019.10.11-02.41.48:334][945]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Steam01.wav)
+[2019.10.11-02.41.48:342][945]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Steam01.wav)
+[2019.10.11-02.41.48:349][945]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Steam01.wav)
+[2019.10.11-02.41.48:356][945]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Steam01.wav)
+[2019.10.11-02.41.48:363][945]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Steam01.wav)
+[2019.10.11-02.41.48:388][946]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_01.wav)
+[2019.10.11-02.41.48:405][946]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_01.wav)
+[2019.10.11-02.41.48:422][946]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_01.wav)
+[2019.10.11-02.41.48:438][946]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_01.wav)
+[2019.10.11-02.41.48:452][946]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_01.wav)
+[2019.10.11-02.41.48:466][946]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_01.wav)
+[2019.10.11-02.41.48:490][947]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_02.wav)
+[2019.10.11-02.41.48:502][947]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_02.wav)
+[2019.10.11-02.41.48:512][947]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_02.wav)
+[2019.10.11-02.41.48:523][947]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_02.wav)
+[2019.10.11-02.41.48:532][947]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_02.wav)
+[2019.10.11-02.41.48:542][947]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_02.wav)
+[2019.10.11-02.41.48:598][948]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_03.wav)
+[2019.10.11-02.41.48:656][948]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_03.wav)
+[2019.10.11-02.41.48:707][948]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_03.wav)
+[2019.10.11-02.41.48:755][948]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_03.wav)
+[2019.10.11-02.41.48:805][948]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_03.wav)
+[2019.10.11-02.41.48:854][948]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water drip1_03.wav)
+[2019.10.11-02.41.48:866][949]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip1.wav)
+[2019.10.11-02.41.48:867][949]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip1.wav)
+[2019.10.11-02.41.48:868][949]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip1.wav)
+[2019.10.11-02.41.48:869][949]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip1.wav)
+[2019.10.11-02.41.48:871][949]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip1.wav)
+[2019.10.11-02.41.48:872][949]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip1.wav)
+[2019.10.11-02.41.48:874][949]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip2.wav)
+[2019.10.11-02.41.48:875][949]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip2.wav)
+[2019.10.11-02.41.48:876][949]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip2.wav)
+[2019.10.11-02.41.48:876][949]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip2.wav)
+[2019.10.11-02.41.48:878][949]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip2.wav)
+[2019.10.11-02.41.48:878][949]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip2.wav)
+[2019.10.11-02.41.48:892][950]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip3.wav)
+[2019.10.11-02.41.48:894][950]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip3.wav)
+[2019.10.11-02.41.48:896][950]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip3.wav)
+[2019.10.11-02.41.48:897][950]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip3.wav)
+[2019.10.11-02.41.48:899][950]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip3.wav)
+[2019.10.11-02.41.48:900][950]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip3.wav)
+[2019.10.11-02.41.48:905][950]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip4.wav)
+[2019.10.11-02.41.48:906][950]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip4.wav)
+[2019.10.11-02.41.48:907][950]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip4.wav)
+[2019.10.11-02.41.48:907][950]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip4.wav)
+[2019.10.11-02.41.48:908][950]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip4.wav)
+[2019.10.11-02.41.48:908][950]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip4.wav)
+[2019.10.11-02.41.48:923][951]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip5.wav)
+[2019.10.11-02.41.48:923][951]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip5.wav)
+[2019.10.11-02.41.48:924][951]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip5.wav)
+[2019.10.11-02.41.48:925][951]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip5.wav)
+[2019.10.11-02.41.48:926][951]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip5.wav)
+[2019.10.11-02.41.48:926][951]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip5.wav)
+[2019.10.11-02.41.48:934][951]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WindWhooshBySDT029503.WAV)
+[2019.10.11-02.41.48:957][952]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WindWhooshBySDT029504.WAV)
+[2019.10.11-02.41.49:080][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/207930__klankbeeld__bang-prison-792EAE1C45AAD2326A8CCAB0953A1B6B.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/207930__klankbeeld__bang-prison-door-loop-130903-00.uasset'
+[2019.10.11-02.41.49:112][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/210754__yuval__banging-on-metalD83C929444704BFB4D6BCFABC3A3A684.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/210754__yuval__banging-on-metal.uasset'
+[2019.10.11-02.41.49:207][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/256519__kodack__mask-breathing-s48AE25DE4434176EC8A006A267F58AD6.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/256519__kodack__mask-breathing-sound.uasset'
+[2019.10.11-02.41.49:271][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/411691__deoking__pipeburstE3B52C01401F79E65BF3E38A96D3289D.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/411691__deoking__pipeburst.uasset'
+[2019.10.11-02.41.49:282][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AudioTemp/BulbHumGain+" FILE="../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/BulbHumGain+.uasset" SILENT=true
+[2019.10.11-02.41.49:294][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/BulbHumGain+8F619B45482EBE502B60638A072AB005.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/BulbHumGain+.uasset'
+[2019.10.11-02.41.49:314][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/HydraulicDoorCloseA026FB4E497BBA0A184BEDAFF2642118.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/HydraulicDoorClose.uasset'
+[2019.10.11-02.41.49:344][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/HydraulicDoorOpenF5B9E08843B72B5CF3781B945FF557C1.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/HydraulicDoorOpen.uasset'
+[2019.10.11-02.41.49:375][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/MetalFootstep01E2F516A94DC5965F5D62F68DC4215CD0.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep01.uasset'
+[2019.10.11-02.41.49:397][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/MetalFootstep025668A55446BF6170ABFA7DA98542B917.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep02.uasset'
+[2019.10.11-02.41.49:421][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/MetalFootstep03035127A24846ED33101BAAAC6608C3FE.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep03.uasset'
+[2019.10.11-02.41.49:445][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/MetalFootstep04CB1A724844A524B5BC4264A01E3D4A10.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep04.uasset'
+[2019.10.11-02.41.49:465][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/MetalFootstep05EDD00626450F8E3F6955E187CA085517.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep05.uasset'
+[2019.10.11-02.41.49:486][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/MetalFootstep06586C77DA494FA647F0AB15B84B391F14.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep06.uasset'
+[2019.10.11-02.41.49:496][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AudioTemp/Steam01" FILE="../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Steam01.uasset" SILENT=true
+[2019.10.11-02.41.49:507][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/Steam01BA077A7E4F5D76B0021778A16022C14E.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Steam01.uasset'
+[2019.10.11-02.41.49:529][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/Water_drip1_01F4276B834BEF199D836A188947DF1E8C.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water_drip1_01.uasset'
+[2019.10.11-02.41.49:550][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/Water_drip1_0285E7FB324EAF7F292E4A198BC1ABE822.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water_drip1_02.uasset'
+[2019.10.11-02.41.49:576][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/Water_drip1_0354E6FF254C87A100EB1846B36E5AB26A.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/Water_drip1_03.uasset'
+[2019.10.11-02.41.49:588][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AudioTemp/WaterDrip1" FILE="../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip1.uasset" SILENT=true
+[2019.10.11-02.41.49:598][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/WaterDrip1CC89584842560A46655C949F35E961F6.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip1.uasset'
+[2019.10.11-02.41.49:609][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AudioTemp/WaterDrip2" FILE="../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip2.uasset" SILENT=true
+[2019.10.11-02.41.49:620][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/WaterDrip239E897C44AAFE04E54DA3AA6B367170F.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip2.uasset'
+[2019.10.11-02.41.49:630][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AudioTemp/WaterDrip3" FILE="../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip3.uasset" SILENT=true
+[2019.10.11-02.41.49:641][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/WaterDrip37D2B8200462E211B245C3582F1F3430C.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip3.uasset'
+[2019.10.11-02.41.49:655][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AudioTemp/WaterDrip4" FILE="../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip4.uasset" SILENT=true
+[2019.10.11-02.41.49:665][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/WaterDrip44E8DE5FC4AC4FF38BE59D6BAF894D4EB.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip4.uasset'
+[2019.10.11-02.41.49:676][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AudioTemp/WaterDrip5" FILE="../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip5.uasset" SILENT=true
+[2019.10.11-02.41.49:688][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/WaterDrip50100D45B47A91077128FFBA89FC184BD.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WaterDrip5.uasset'
+[2019.10.11-02.41.49:722][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/WindWhooshBySDT0295037E6070304C202F3A6416588469CD5C8D.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WindWhooshBySDT029503.uasset'
+[2019.10.11-02.41.49:752][952]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/WindWhooshBySDT029504C74214DA4455F4618AF0148D0541363F.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/WindWhooshBySDT029504.uasset'
+[2019.10.11-02.41.52:405][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/207930__klankbeeld__bang-prison-door-loop-130903-00.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/210754__yuval__banging-on-metal.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/256519__kodack__mask-breathing-sound.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/411691__deoking__pipeburst.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/BulbHumGain+.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/HydraulicDoorClose.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/HydraulicDoorOpen.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/MetalFootstep01.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/MetalFootstep02.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/MetalFootstep03.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/MetalFootstep04.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/MetalFootstep05.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/MetalFootstep06.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/Steam01.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/Water_drip1_01.
+[2019.10.11-02.41.52:773][294]AssetReimport: Importing new asset /Game/AudioTemp/Water_drip1_02.
+[2019.10.11-02.41.52:774][294]AssetReimport: Importing new asset /Game/AudioTemp/Water_drip1_03.
+[2019.10.11-02.41.52:774][294]AssetReimport: Importing new asset /Game/AudioTemp/WaterDrip1.
+[2019.10.11-02.41.52:774][294]AssetReimport: Importing new asset /Game/AudioTemp/WaterDrip2.
+[2019.10.11-02.41.52:774][294]AssetReimport: Importing new asset /Game/AudioTemp/WaterDrip3.
+[2019.10.11-02.41.52:774][294]AssetReimport: Importing new asset /Game/AudioTemp/WaterDrip4.
+[2019.10.11-02.41.52:774][294]AssetReimport: Importing new asset /Game/AudioTemp/WaterDrip5.
+[2019.10.11-02.41.52:774][294]AssetReimport: Importing new asset /Game/AudioTemp/WindWhooshBySDT029503.
+[2019.10.11-02.41.52:774][294]AssetReimport: Importing new asset /Game/AudioTemp/WindWhooshBySDT029504.
+[2019.10.11-02.42.04:001][395]LogAssetEditorManager: Opening Asset editor for FileMediaSource /Game/AudioTemp/HydraulicDoorClose.HydraulicDoorClose
+[2019.10.11-02.42.15:882][298]LogSlate: Window 'HydraulicDoorClose - Generic Asset Editor' being destroyed
+[2019.10.11-02.42.15:892][298]LogSlate: Window 'HydraulicDoorClose - Generic Asset Editor' being destroyed
+[2019.10.11-02.42.41:354][ 22]LogAssetEditorManager: Opening Asset editor for FileMediaSource /Game/AudioTemp/Steam01.Steam01
+[2019.10.11-02.43.01:053][982]LogSlate: Window 'Steam01* - Generic Asset Editor' being destroyed
+[2019.10.11-02.43.01:065][982]LogSlate: Window 'Steam01* - Generic Asset Editor' being destroyed
+[2019.10.11-02.43.08:649][672]Cmd: TRANSACTION UNDO
+[2019.10.11-02.43.08:649][672]LogEditorTransaction: Undo Reset to Default
+[2019.10.11-02.43.28:616][724]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/AudioTemp/256519__kodack__mask-breathing-sound.256519__kodack__mask-breathing-sound
+[2019.10.11-02.43.37:068][530]LogSlate: Window '256519__kodack__mask-breathing-sound - Generic Asset Editor' being destroyed
+[2019.10.11-02.43.37:078][530]LogSlate: Window '256519__kodack__mask-breathing-sound - Generic Asset Editor' being destroyed
+[2019.10.11-02.45.34:258][482]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.10.11-02.45.35:021][482]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2019.10.11-02.45.56:891][919]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.11-02.45.57:347][919]LogSlate: Took 0.005417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.11-02.45.57:643][920]LogSlate: Took 0.006359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.11-02.47.36:501][ 32]LogAssetEditorManager: Opening Asset editor for FileMediaSource /Game/AudioTemp/MetalFootstep05.MetalFootstep05
+[2019.10.11-02.47.47:668][278]LogSlate: Window 'MetalFootstep05 - Generic Asset Editor' being destroyed
+[2019.10.11-02.47.47:678][278]LogSlate: Window 'MetalFootstep05 - Generic Asset Editor' being destroyed
+[2019.10.11-02.48.14:180][556]LogSlate: Window 'Message' being destroyed
+[2019.10.11-02.48.14:447][556]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep01.wav)
+[2019.10.11-02.48.14:447][556]Error: Currently, only 16 bit WAV files are supported (MetalFootstep01).
+[2019.10.11-02.48.17:762][556]LogSlate: Window 'Message' being destroyed
+[2019.10.11-02.48.17:773][556]LogAssetTools: Warning: Failed to import '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep01.wav'. Failed to create asset '/Game/AudioTemp/MetalFootstep01'.
+Please see Output Log for details.
+[2019.10.11-02.48.18:027][556]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep02.wav)
+[2019.10.11-02.48.18:027][556]Error: Currently, only 16 bit WAV files are supported (MetalFootstep02).
+[2019.10.11-02.48.18:778][556]LogSlate: Window 'Message' being destroyed
+[2019.10.11-02.48.18:788][556]LogAssetTools: Warning: Failed to import '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep02.wav'. Failed to create asset '/Game/AudioTemp/MetalFootstep02'.
+Please see Output Log for details.
+[2019.10.11-02.48.19:034][556]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep03.wav)
+[2019.10.11-02.48.19:035][556]Error: Currently, only 16 bit WAV files are supported (MetalFootstep03).
+[2019.10.11-02.48.19:549][556]LogSlate: Window 'Message' being destroyed
+[2019.10.11-02.48.19:557][556]LogAssetTools: Warning: Failed to import '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep03.wav'. Failed to create asset '/Game/AudioTemp/MetalFootstep03'.
+Please see Output Log for details.
+[2019.10.11-02.48.19:806][556]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep04.wav)
+[2019.10.11-02.48.19:806][556]Error: Currently, only 16 bit WAV files are supported (MetalFootstep04).
+[2019.10.11-02.48.20:269][556]LogSlate: Window 'Message' being destroyed
+[2019.10.11-02.48.20:278][556]LogAssetTools: Warning: Failed to import '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep04.wav'. Failed to create asset '/Game/AudioTemp/MetalFootstep04'.
+Please see Output Log for details.
+[2019.10.11-02.48.20:532][556]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep05.wav)
+[2019.10.11-02.48.20:533][556]Error: Currently, only 16 bit WAV files are supported (MetalFootstep05).
+[2019.10.11-02.48.21:012][556]LogSlate: Window 'Message' being destroyed
+[2019.10.11-02.48.21:022][556]LogAssetTools: Warning: Failed to import '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep05.wav'. Failed to create asset '/Game/AudioTemp/MetalFootstep05'.
+Please see Output Log for details.
+[2019.10.11-02.48.21:277][556]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep06.wav)
+[2019.10.11-02.48.21:278][556]Error: Currently, only 16 bit WAV files are supported (MetalFootstep06).
+[2019.10.11-02.48.21:792][556]LogSlate: Window 'Message' being destroyed
+[2019.10.11-02.48.21:802][556]LogAssetTools: Warning: Failed to import '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Content/AudioTemp/MetalFootstep06.wav'. Failed to create asset '/Game/AudioTemp/MetalFootstep06'.
+Please see Output Log for details.
+[2019.10.11-02.50.20:793][878]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::PlaySoundAtLocation' [Element not found.]
+[2019.10.11-02.51.31:372][865]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.11-02.51.31:435][865]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.11-02.51.31:463][865]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.11-02.51.31:695][865]LogPlayLevel: PlayLevel: Blueprint regeneration took 260 ms (1 blueprints)
+[2019.10.11-02.51.31:709][865]PIE: New page: PIE session: hall (Oct 10, 2019, 4:51:31 PM)
+[2019.10.11-02.51.31:709][865]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.11-02.51.31:711][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001368s)
+[2019.10.11-02.51.31:711][865]LogAIModule: Creating AISystem for world hall
+[2019.10.11-02.51.31:711][865]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2019.10.11-02.51.31:711][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002140s)
+[2019.10.11-02.51.31:801][865]LogInit: XAudio2 using 'M260VA (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.11-02.51.31:823][865]LogInit: FAudioDevice initialized.
+[2019.10.11-02.51.31:849][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-02.51.31:900][865]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.11-02.51.31:903][865]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-21.51.31
+[2019.10.11-02.51.31:903][865]LogWorld: Bringing up level for play took: 0.000906
+[2019.10.11-02.51.31:925][865]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.10.11-02.51.31:929][865]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.878
+[2019.10.11-02.51.32:091][865]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.10.11-02.51.37:363][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-02.51.37:413][323]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.11-02.51.37:458][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.11-02.51.37:506][324]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.11-02.51.41:850][474]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.11-02.51.41:903][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.11-02.51.41:903][474]PIE: New page: PIE session: hall (Oct 10, 2019, 4:51:41 PM)
+[2019.10.11-02.51.41:903][474]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.11-02.51.41:904][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001239s)
+[2019.10.11-02.51.41:905][474]LogAIModule: Creating AISystem for world hall
+[2019.10.11-02.51.41:905][474]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2019.10.11-02.51.41:905][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002096s)
+[2019.10.11-02.51.41:980][474]LogInit: XAudio2 using 'M260VA (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.11-02.51.41:994][474]LogInit: FAudioDevice initialized.
+[2019.10.11-02.51.42:016][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-02.51.42:058][474]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.11-02.51.42:061][474]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-21.51.42
+[2019.10.11-02.51.42:061][474]LogWorld: Bringing up level for play took: 0.000980
+[2019.10.11-02.51.42:081][474]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 1.031
+[2019.10.11-02.51.46:271][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-02.51.46:322][840]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.11-02.51.46:363][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.11-02.51.46:406][841]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.11-02.51.49:086][107]MapCheck: New page: Map Check
+[2019.10.11-02.51.49:113][107]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.11-02.51.49:113][107]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.11-02.51.49:172][107]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert3, compiling. 
+[2019.10.11-02.51.49:184][107]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.11-02.51.49:184][107]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy blinn2, compiling. 
+[2019.10.11-02.51.49:191][107]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy blinn4, compiling. 
+[2019.10.11-02.51.49:198][107]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy blinn3, compiling. 
+[2019.10.11-02.51.49:206][107]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2, compiling. 
+[2019.10.11-02.51.49:966][107]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.11-02.51.49:966][107]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.11-02.51.49:966][107]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.11-02.51.49:966][107]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.11-02.51.49:966][107]TextureStreamingBuild: Display: Compiling optional shaders took 0.800 seconds.
+[2019.10.11-02.51.49:969][107]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2019.10.11-02.51.49:981][107]TextureStreamingBuild: Display: Build Texture Streaming took 0.011 seconds.
+[2019.10.11-02.51.50:011][107]LightingResults: New page: Lighting Build - Oct 10, 2019, 4:51:50 PM
+[2019.10.11-02.51.50:074][107]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.11-02.51.50:142][107]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.11-02.51.50:166][107]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.11-02.51.51:211][107]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.11-02.51.51:211][107]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4432
+[2019.10.11-02.51.57:827][107]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.11-02.51.57:828][107]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.11-02.51.57:828][107]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.11-02.51.57:828][107]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.11-02.51.57:828][107]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.11-02.51.57:828][107]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.11-02.51.57:991][107]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.11-02.51.57:991][107]MapCheck: New page: hall - Oct 10, 2019, 4:51:57 PM
+[2019.10.11-02.51.58:091][107]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 99.938ms to complete.
+[2019.10.11-02.51.58:115][107]LogEditorBuildUtils: Build time 0:09
+[2019.10.11-02.52.01:180][317]Job is a success!
+[2019.10.11-02.52.01:450][318]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2019.10.11-02.52.01:450][318]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.11-02.52.01:450][318]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2019.10.11-02.52.01:450][318]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.11-02.52.01:450][318]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2019.10.11-02.52.01:450][318]LogVolumetricLightmapImport:          1: 30.0% covering 4.7% of volume
+[2019.10.11-02.52.01:450][318]LogVolumetricLightmapImport:          2: 60.0% covering 0.1% of volume
+[2019.10.11-02.52.01:603][318]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2019.10.11-02.52.01:603][318]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2019.10.11-02.52.01:603][318]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 64X64)
+[2019.10.11-02.52.01:739][318]Lightmass on ADRIANSPC: 2.77 sec total, 263 ms importing, 70 ms setup, 656 ms photons, 1.68 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 11.6 sec total, 1.06 sec processing.
+[2019.10.11-02.52.01:918][318]LogStaticLightingSystem: Illumination: 11.8 sec (7 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2019.10.11-02.52.01:918][318]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.10.11-02.52.01:918][318]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.10.11-02.52.02:835][318]DumpUnbuiltLightIteractions
+[2019.10.11-02.52.02:836][318]Lights with unbuilt interactions: 0
+[2019.10.11-02.52.02:836][318]
+[2019.10.11-02.52.02:836][318]Primitives with unbuilt interactions: 0
+[2019.10.11-02.52.02:884][319]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.11-02.52.02:885][319]MapCheck: New page: hall - Oct 10, 2019, 4:52:02 PM
+[2019.10.11-02.52.02:998][319]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 113.002ms to complete.
+[2019.10.11-02.52.06:211][697]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.11-02.52.06:269][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.11-02.52.06:269][697]PIE: New page: PIE session: hall (Oct 10, 2019, 4:52:06 PM)
+[2019.10.11-02.52.06:269][697]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.11-02.52.06:270][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001362s)
+[2019.10.11-02.52.06:271][697]LogAIModule: Creating AISystem for world hall
+[2019.10.11-02.52.06:271][697]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2019.10.11-02.52.06:272][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002473s)
+[2019.10.11-02.52.06:347][697]LogInit: XAudio2 using 'M260VA (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.11-02.52.06:361][697]LogInit: FAudioDevice initialized.
+[2019.10.11-02.52.06:394][697]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.11-02.52.06:396][697]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-21.52.06
+[2019.10.11-02.52.06:397][697]LogWorld: Bringing up level for play took: 0.001300
+[2019.10.11-02.52.06:411][697]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.639
+[2019.10.11-02.52.14:428][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-02.52.14:461][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.11-02.52.14:494][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-02.52.14:529][655]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.11-02.52.16:385][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.11-02.56.20:058][877]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.11-02.56.20:115][877]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.11-02.56.20:139][877]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.11-02.56.20:369][877]LogPlayLevel: PlayLevel: Blueprint regeneration took 254 ms (1 blueprints)
+[2019.10.11-02.56.20:369][877]PIE: New page: PIE session: hall (Oct 10, 2019, 4:56:20 PM)
+[2019.10.11-02.56.20:369][877]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.11-02.56.20:371][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001601s)
+[2019.10.11-02.56.20:371][877]LogAIModule: Creating AISystem for world hall
+[2019.10.11-02.56.20:372][877]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2019.10.11-02.56.20:372][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002698s)
+[2019.10.11-02.56.20:449][877]LogInit: XAudio2 using 'M260VA (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.11-02.56.20:462][877]LogInit: FAudioDevice initialized.
+[2019.10.11-02.56.20:487][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-02.56.20:527][877]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.11-02.56.20:529][877]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-21.56.20
+[2019.10.11-02.56.20:529][877]LogWorld: Bringing up level for play took: 0.001068
+[2019.10.11-02.56.20:546][877]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.504
+[2019.10.11-02.56.25:103][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-02.56.25:163][240]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.11-02.56.25:208][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.11-02.56.25:270][241]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.11-02.56.54:032][926]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/hall_Auto11CB5FC7C433834AE057886A04725D259.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/Geometry/Room/hall_Auto1.umap'
+[2019.10.11-02.56.54:036][926]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Geometry/Room/hall' took 0.065
+[2019.10.11-02.56.54:036][926]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.065
+[2019.10.11-02.56.54:039][926]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/Room/hall_BuiltData] ([1] browsable assets)...
+[2019.10.11-02.56.54:039][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Room/hall_BuiltData]
+[2019.10.11-02.56.54:059][926]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/hall_BuiltData_Auto11D5BABC24DDDC17866F6F78192F72F06.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/Geometry/Room/hall_BuiltData_Auto1.uasset'
+[2019.10.11-02.56.54:062][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.10.11-02.56.54:091][926]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.10.11-02.56.54:091][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.10.11-02.56.54:202][926]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/FirstPersonCharacter_Auto181BE65024C15EF85BB0CAE8D79E70637.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2019.10.11-02.56.54:204][926]LogFileHelpers: Auto-saving content packages took 0.166
+[2019.10.11-02.59.25:940][921]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.11-02.59.25:993][921]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.11-02.59.26:024][921]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.11-02.59.26:267][921]LogPlayLevel: PlayLevel: Blueprint regeneration took 274 ms (1 blueprints)
+[2019.10.11-02.59.26:267][921]PIE: New page: PIE session: hall (Oct 10, 2019, 4:59:26 PM)
+[2019.10.11-02.59.26:267][921]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.11-02.59.26:268][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001304s)
+[2019.10.11-02.59.26:269][921]LogAIModule: Creating AISystem for world hall
+[2019.10.11-02.59.26:269][921]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2019.10.11-02.59.26:269][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002242s)
+[2019.10.11-02.59.26:347][921]LogInit: XAudio2 using 'M260VA (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.11-02.59.26:361][921]LogInit: FAudioDevice initialized.
+[2019.10.11-02.59.26:386][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-02.59.26:428][921]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.11-02.59.26:429][921]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-21.59.26
+[2019.10.11-02.59.26:430][921]LogWorld: Bringing up level for play took: 0.000896
+[2019.10.11-02.59.26:445][921]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 1.395
+[2019.10.11-02.59.26:447][921]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:620][922]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:640][923]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:650][924]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:672][925]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:693][926]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:711][927]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:719][928]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:727][929]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:736][930]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:744][931]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:752][932]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:761][933]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:769][934]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:777][935]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.26:786][936]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-02.59.40:329][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-02.59.40:396][935]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.11-02.59.40:442][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.11-02.59.40:663][936]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.11-03.00.25:774][517]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.11-03.00.25:831][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.11-03.00.25:831][517]PIE: New page: PIE session: hall (Oct 10, 2019, 5:00:25 PM)
+[2019.10.11-03.00.25:831][517]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.11-03.00.25:833][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001350s)
+[2019.10.11-03.00.25:833][517]LogAIModule: Creating AISystem for world hall
+[2019.10.11-03.00.25:833][517]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2019.10.11-03.00.25:833][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002456s)
+[2019.10.11-03.00.25:912][517]LogInit: XAudio2 using 'M260VA (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.11-03.00.25:925][517]LogInit: FAudioDevice initialized.
+[2019.10.11-03.00.25:960][517]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.11-03.00.25:962][517]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-22.00.25
+[2019.10.11-03.00.25:962][517]LogWorld: Bringing up level for play took: 0.000695
+[2019.10.11-03.00.25:978][517]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.928
+[2019.10.11-03.00.25:982][517]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:006][518]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:014][519]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:023][520]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:031][521]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:039][522]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:047][523]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:056][524]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:064][525]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:072][526]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:082][527]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:090][528]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:098][529]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:106][530]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:115][531]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.26:123][532]LogAudio: Warning: Detected orphaned looping sound 'Steam01'.
+[2019.10.11-03.00.28:450][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-03.00.28:489][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.11-03.00.28:528][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-03.00.28:550][799]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.11-03.00.43:423][494]LogEditorTransaction: Undo Move Node
+[2019.10.11-03.00.44:574][598]LogEditorTransaction: Undo Delete current selection
+[2019.10.11-03.00.58:527][180]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.11-03.00.58:582][180]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.11-03.00.58:610][180]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.11-03.00.58:858][180]LogPlayLevel: PlayLevel: Blueprint regeneration took 275 ms (1 blueprints)
+[2019.10.11-03.00.58:858][180]PIE: New page: PIE session: hall (Oct 10, 2019, 5:00:58 PM)
+[2019.10.11-03.00.58:858][180]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.11-03.00.58:859][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001288s)
+[2019.10.11-03.00.58:860][180]LogAIModule: Creating AISystem for world hall
+[2019.10.11-03.00.58:860][180]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2019.10.11-03.00.58:860][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002152s)
+[2019.10.11-03.00.58:942][180]LogInit: XAudio2 using 'M260VA (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.11-03.00.58:955][180]LogInit: FAudioDevice initialized.
+[2019.10.11-03.00.58:979][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-03.00.59:012][180]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.11-03.00.59:015][180]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-22.00.59
+[2019.10.11-03.00.59:016][180]LogWorld: Bringing up level for play took: 0.001865
+[2019.10.11-03.00.59:032][180]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.018
+[2019.10.11-03.00.59:034][180]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave 411691__deoking__pipeburst...
+[2019.10.11-03.00.59:036][180]LogTemp: Couldn't find amount to resample to.
+[2019.10.11-03.00.59:465][180]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 3716500 while cooking SoundWave /Game/AudioTemp/411691__deoking__pipeburst.411691__deoking__pipeburst.
+[2019.10.11-03.01.05:551][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-03.01.05:603][646]LogSlate: Window 'Test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.11-03.01.05:644][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.11-03.01.05:708][647]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.11-03.07.18:702][188]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Geometry/Room/hall' took 0.034
+[2019.10.11-03.07.18:704][188]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.10.11-03.07.18:729][188]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.10.11-03.07.18:729][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.10.11-03.07.18:847][188]LogSavePackage: Moving '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/FirstPersonCharacter_Auto21FEFE72146C991B50F3511A779C86D6A.tmp' to '../../../../../../Users/Adrian Burk/Documents/GitHub/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2019.10.11-03.07.18:849][188]LogFileHelpers: Auto-saving content packages took 0.146
+[2019.10.11-03.10.43:764][225]LogSlate: Window 'Save Content' being destroyed
+[2019.10.11-03.10.44:157][225]LogSlate: Window 'Test2 - Unreal Editor' being destroyed
+[2019.10.11-03.10.44:412][226]Cmd: QUIT_EDITOR
+[2019.10.11-03.10.45:253][226]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.11-03.10.45:270][226]LogExit: Preparing to exit.
+[2019.10.11-03.10.45:547][226]LogExit: Editor shut down
+[2019.10.11-03.10.45:547][226]LogExit: Transaction tracking system shut down
+[2019.10.11-03.10.46:103][226]LogExit: Object subsystem successfully closed.
+[2019.10.11-03.10.46:134][226]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.11-03.10.46:140][226]LogD3D11RHI: Shutdown
+[2019.10.11-03.10.46:141][226]LogD3D11RHI: CleanupD3DDevice
+[2019.10.11-03.10.46:145][226]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.11-03.10.46:169][226]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (618)
+[2019.10.11-03.10.46:169][226]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2019.10.11-03.10.46:169][226]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2019.10.11-03.10.46:169][226]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2019.10.11-03.10.46:169][226]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.10.11-03.10.46:169][226]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.10.11-03.10.46:169][226]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.10.11-03.10.46:170][226]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.10.11-03.10.46:170][226]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.10.11-03.10.46:170][226]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.10.11-03.10.46:170][226]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.10.11-03.10.46:170][226]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.10.11-03.10.46:170][226]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.10.11-03.10.46:171][226]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.10.11-03.10.46:172][226]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.10.11-03.10.46:705][226]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.10.11-03.10.46:706][226]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.10.11-03.10.46:706][226]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.10.11-03.10.46:761][226]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.10.11-03.10.46:761][226]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.10.11-03.10.46:761][226]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.10.11-03.10.46:761][226]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.10.11-03.10.46:761][226]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.10.11-03.10.46:761][226]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.10.11-03.10.46:761][226]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.10.11-03.10.46:761][226]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.10.11-03.10.46:761][226]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.10.11-03.10.46:761][226]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.10.11-03.10.46:767][226]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.10.11-03.10.46:767][226]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.10.11-03.10.46:767][226]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.10.11-03.10.46:767][226]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.10.11-03.10.46:767][226]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.10.11-03.10.46:767][226]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.10.11-03.10.46:767][226]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.10.11-03.10.46:768][226]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.10.11-03.10.46:909][226]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.10.11-03.10.46:909][226]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.10.11-03.10.46:909][226]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.10.11-03.10.46:909][226]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.10.11-03.10.46:909][226]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.10.11-03.10.46:909][226]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.10.11-03.10.46:909][226]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.10.11-03.10.46:909][226]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.10.11-03.10.46:909][226]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.10.11-03.10.46:909][226]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.10.11-03.10.46:909][226]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.10.11-03.10.46:909][226]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.10.11-03.10.46:909][226]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.10.11-03.10.46:909][226]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.10.11-03.10.46:910][226]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.10.11-03.10.46:910][226]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.10.11-03.10.46:910][226]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.10.11-03.10.46:910][226]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.10.11-03.10.46:917][226]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.10.11-03.10.46:918][226]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.10.11-03.10.46:919][226]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.10.11-03.10.46:919][226]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.10.11-03.10.46:919][226]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.10.11-03.10.47:019][226]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.10.11-03.10.47:120][226]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.10.11-03.10.47:120][226]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.10.11-03.10.47:120][226]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.10.11-03.10.47:120][226]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.10.11-03.10.47:120][226]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.10.11-03.10.47:120][226]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.10.11-03.10.47:120][226]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.10.11-03.10.47:122][226]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.10.11-03.10.47:122][226]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.10.11-03.10.47:122][226]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.10.11-03.10.47:122][226]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.10.11-03.10.47:123][226]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.10.11-03.10.47:124][226]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.10.11-03.10.47:124][226]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.11-03.10.47:124][226]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.10.11-03.10.47:124][226]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.10.11-03.10.47:124][226]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.10.11-03.10.47:125][226]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.10.11-03.10.47:128][226]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.10.11-03.10.47:135][226]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.10.11-03.10.47:138][226]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.10.11-03.10.47:152][226]LogDerivedDataCache: Shutdown
+[2019.10.11-03.10.47:152][226]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.10.11-03.10.47:152][226]LogXGEController: Cleaning working directory: C:/Users/Adrian Burk/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.11-03.10.47:152][226]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.10.11-03.10.47:152][226]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.10.11-03.10.47:152][226]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.10.11-03.10.47:152][226]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.10.11-03.10.47:152][226]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.10.11-03.10.47:152][226]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.10.11-03.10.47:152][226]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.10.11-03.10.47:152][226]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.10.11-03.10.47:152][226]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.10.11-03.10.47:153][226]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.10.11-03.10.47:153][226]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.10.11-03.10.47:153][226]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.10.11-03.10.47:153][226]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.10.11-03.10.47:153][226]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.10.11-03.10.47:153][226]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.10.11-03.10.47:153][226]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.10.11-03.10.47:153][226]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.10.11-03.10.47:153][226]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.10.11-03.10.47:153][226]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.10.11-03.10.47:153][226]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.10.11-03.10.47:153][226]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.10.11-03.10.47:153][226]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.10.11-03.10.47:156][226]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.10.11-03.10.47:156][226]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.10.11-03.10.47:158][226]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.10.11-03.10.47:158][226]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.10.11-03.10.47:180][226]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.10.11-03.10.47:180][226]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.10.11-03.10.47:180][226]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.10.11-03.10.47:180][226]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.10.11-03.10.47:180][226]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.10.11-03.10.47:180][226]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.10.11-03.10.47:180][226]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.10.11-03.10.47:180][226]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.10.11-03.10.47:180][226]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.10.11-03.10.47:180][226]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.10.11-03.10.47:181][226]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.10.11-03.10.47:181][226]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.10.11-03.10.47:181][226]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.10.11-03.10.47:181][226]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.10.11-03.10.47:181][226]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.10.11-03.10.47:181][226]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.10.11-03.10.47:181][226]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.10.11-03.10.47:181][226]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.10.11-03.10.47:182][226]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.10.11-03.10.47:182][226]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.10.11-03.10.47:215][226]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.10.11-03.10.47:215][226]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.11-03.10.47:215][226]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B28F6FB46-47BA-CF8B-6858-E8AB7C092AAB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=2fadb1c04b66dad15208c2a157023906%7C8168e67f172147a99b9d7f6ac5ab08b6%7Ce8816031-a90f-4f37-8870-e99a5fda7f71&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.11-03.10.47:249][226]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.10.11-03.10.47:251][226]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.10.11-03.10.47:251][226]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.10.11-03.10.47:251][226]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.10.11-03.10.47:251][226]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.10.11-03.10.47:251][226]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.10.11-03.10.47:251][226]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.10.11-03.10.47:251][226]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.10.11-03.10.47:251][226]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.10.11-03.10.47:251][226]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.10.11-03.10.47:251][226]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.11-03.10.47:251][226]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.10.11-03.10.47:252][226]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.10.11-03.10.47:252][226]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.10.11-03.10.47:252][226]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.10.11-03.10.47:252][226]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.10.11-03.10.47:252][226]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.10.11-03.10.47:252][226]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.10.11-03.10.47:252][226]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.10.11-03.10.47:253][226]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.10.11-03.10.47:253][226]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.10.11-03.10.47:253][226]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.10.11-03.10.47:253][226]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.10.11-03.10.47:253][226]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.10.11-03.10.47:253][226]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.10.11-03.10.47:253][226]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.10.11-03.10.47:253][226]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.10.11-03.10.47:253][226]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.10.11-03.10.47:253][226]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.10.11-03.10.47:253][226]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.10.11-03.10.47:265][226]LogExit: Exiting.
+[2019.10.11-03.10.47:322][226]Log file closed, 10/10/19 22:10:47
