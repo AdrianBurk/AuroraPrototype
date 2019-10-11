@@ -1,0 +1,1658 @@
+﻿Log file open, 10/10/19 11:18:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Test2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.276693
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.336s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4771 CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 780M
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/iam.local/isilon/user/Michael.Morrone/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.008s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.10.10-16.18.57:962][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.10-16.18.57:962][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.10-16.18.57:998][  0]LogHAL: Display: Platform has ~ 16 GB [17117220864 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.10-16.18.57:998][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.10.10-16.18.57:998][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.10-16.18.57:999][  0]LogInit: Computer: 916-IAM-B-EGGS
+[2019.10.10-16.18.57:999][  0]LogInit: User: danielcollins
+[2019.10.10-16.18.57:999][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.10-16.18.57:999][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.10-16.18.57:999][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.10-16.18.57:999][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.10-16.18.57:999][  0]LogMemory: Process Physical Memory: 100.00 MB used, 100.00 MB peak
+[2019.10.10-16.18.57:999][  0]LogMemory: Process Virtual Memory: 91.32 MB used, 91.32 MB peak
+[2019.10.10-16.18.57:999][  0]LogMemory: Physical Memory: 4971.68 MB used,  11352.58 MB free, 16324.25 MB total
+[2019.10.10-16.18.57:999][  0]LogMemory: Virtual Memory: 4642.59 MB used,  11352.58 MB free, 134217728.00 MB total
+[2019.10.10-16.18.58:027][  0]LogInit: Using OS detected language (en-US).
+[2019.10.10-16.18.58:027][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.10-16.18.58:028][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.10-16.18.58:411][  0]LogStreaming: Display: Took  0.384s to InitEngineTextLocalization.
+[2019.10.10-16.18.58:412][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.10-16.18.58:463][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.10-16.18.58:463][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.10-16.18.58:627][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.10-16.18.58:627][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.10-16.18.58:670][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780M' (Feature Level 11_0)
+[2019.10.10-16.18.58:670][  0]LogD3D11RHI:       4062/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.10-16.18.58:672][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.10-16.18.58:672][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.10-16.18.58:672][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.10-16.18.58:677][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.10-16.18.58:677][  0]LogD3D11RHI:     GPU DeviceId: 0x119e (for the marketing name, search the web for "GPU Device Id")
+[2019.10.10-16.18.58:677][  0]LogWindows: EnumDisplayDevices:
+[2019.10.10-16.18.58:677][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780M' (P:1 D:1)
+[2019.10.10-16.18.58:677][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780M' (P:0 D:0)
+[2019.10.10-16.18.58:677][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780M' (P:0 D:0)
+[2019.10.10-16.18.58:677][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.10.10-16.18.58:677][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780M
+[2019.10.10-16.18.58:677][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2019.10.10-16.18.58:677][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2019.10.10-16.18.58:678][  0]LogRHI: Texture pool is 2843 MB (70% of 4062 MB)
+[2019.10.10-16.18.58:716][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.10-16.18.58:729][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.10-16.18.58:773][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (D:/AuroraPrototype/AuroraTest2 4.19/Intermediate/Shaders/WorkingDirectory/2304/).
+[2019.10.10-16.18.58:773][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/daniel.collins/AppData/Local/Temp/UnrealShaderWorkingDir/7FD9A0CE43FF3C8DCC902986396B99B5/'.
+[2019.10.10-16.18.59:030][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.10.10-16.18.59:043][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.10.10-16.18.59:059][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.10.10-16.18.59:074][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.10.10-16.18.59:099][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.10.10-16.18.59:113][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.10.10-16.18.59:126][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.10.10-16.18.59:139][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.10.10-16.18.59:146][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.10-16.18.59:230][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.10.10-16.18.59:294][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.10-16.18.59:294][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.10-16.18.59:320][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.10-16.18.59:320][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.10-16.18.59:332][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.10.10-16.18.59:345][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.10.10-16.18.59:358][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.10.10-16.18.59:374][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.10.10-16.18.59:384][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.10.10-16.18.59:384][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.10-16.18.59:434][  0]LogXGEController: Cleaning working directory: C:/Users/daniel.collins/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.10-16.18.59:434][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.10-16.18.59:434][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.10-16.18.59:434][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.10-16.19.00:230][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.10-16.19.00:278][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/daniel.collins/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.10.10-16.19.00:278][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/daniel.collins/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.10.10-16.19.00:279][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/AuroraPrototype/AuroraTest2 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.10-16.19.00:279][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.10-16.19.00:279][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/AuroraPrototype/AuroraTest2 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.10-16.19.00:279][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.10-16.19.00:295][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.10-16.19.00:308][  0]LogDerivedDataCache: Using Local data cache path C:/Users/daniel.collins/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.10-16.19.00:308][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.10-16.19.00:308][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.10-16.19.00:326][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.10-16.19.00:327][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.10-16.19.00:327][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.10-16.19.00:395][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2019.10.10-16.19.00:798][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.10-16.19.00:933][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.10.10-16.19.00:936][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.10.10-16.19.00:936][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.10-16.19.00:936][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.10-16.19.00:936][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.10.10-16.19.00:949][  0]LogNetVersion: Test2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1322228424)
+[2019.10.10-16.19.01:789][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.458977 seconds
+[2019.10.10-16.19.01:795][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.10.10-16.19.01:795][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.10.10-16.19.01:795][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.10-16.19.02:568][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.10-16.19.02:581][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.10-16.19.02:724][  0]SourceControl: Source control is disabled
+[2019.10.10-16.19.02:724][  0]SourceControl: Source control is disabled
+[2019.10.10-16.19.02:725][  0]SourceControl: Source control is disabled
+[2019.10.10-16.19.02:726][  0]SourceControl: Source control is disabled
+[2019.10.10-16.19.02:904][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.10-16.19.02:959][  0]LogOcInput: OculusInput pre-init called
+[2019.10.10-16.19.03:023][  0]LogEngine: Initializing Engine...
+[2019.10.10-16.19.03:024][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.10-16.19.03:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.10-16.19.03:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.10-16.19.03:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.10-16.19.03:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.10-16.19.03:241][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.10-16.19.03:257][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.10-16.19.03:275][  0]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.19.03:296][  0]LogInit: FAudioDevice initialized.
+[2019.10.10-16.19.03:296][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.10-16.19.03:367][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/daniel.collins/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.10.10-16.19.03:377][  0]LogInit: Texture streaming: Enabled
+[2019.10.10-16.19.03:392][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.10-16.19.03:392][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={89480BE6-481D-C0BA-B9BE-66BE5752202B}
+[2019.10.10-16.19.03:403][  0]LogInit: Transaction tracking system initialized
+[2019.10.10-16.19.03:423][  0]BlueprintLog: New page: Editor Load
+[2019.10.10-16.19.03:492][  0]LocalizationService: Localization service is disabled
+[2019.10.10-16.19.03:729][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.10-16.19.03:729][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.10-16.19.03:729][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.10.10-16.19.03:729][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.10-16.19.03:729][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.10-16.19.03:729][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.10-16.19.03:729][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.10-16.19.03:840][  0]LogFileCache: Scanning file cache for directory 'D:/AuroraPrototype/AuroraTest2 4.19/Content/' took 0.01s
+[2019.10.10-16.19.03:840][  0]SourceControl: Source control is disabled
+[2019.10.10-16.19.03:840][  0]Cmd: MAP LOAD FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.10-16.19.03:855][  0]LightingResults: New page: Lighting Build
+[2019.10.10-16.19.03:858][  0]MapCheck: New page: Map Check
+[2019.10.10-16.19.03:858][  0]LightingResults: New page: Lighting Build
+[2019.10.10-16.19.03:939][  0]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.19.03:945][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.10-16.19.03:964][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.10-16.19.04:017][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.17ms to complete.
+[2019.10.10-16.19.04:017][  0]LogFileHelpers: Loading map 'hall' took 0.176
+[2019.10.10-16.19.04:119][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.19.04:126][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.19.04:134][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.19.04:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.19.04:148][  0]LogCollectionManager: Loaded 0 collections in 0.001487 seconds
+[2019.10.10-16.19.04:189][  0]LogFileCache: Scanning file cache for directory 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/Collections/' took 0.01s
+[2019.10.10-16.19.04:189][  0]LogFileCache: Scanning file cache for directory 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Developers/danielcollins/Collections/' took 0.01s
+[2019.10.10-16.19.04:189][  0]LogFileCache: Scanning file cache for directory 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Collections/' took 0.01s
+[2019.10.10-16.19.04:189][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.10-16.19.04:203][  0]LogContentBrowser: Native class hierarchy populated in 0.0138 seconds. Added 2572 classes and 603 folders.
+[2019.10.10-16.19.04:212][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.10-16.19.04:250][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.10-16.19.04:254][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.10-16.19.04:269][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.10-16.19.04:272][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.10-16.19.04:277][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.10-16.19.04:355][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2019.10.10-16.19.04:494][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.10-16.19.04:509][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.10.10-16.19.04:540][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.10-16.19.04:540][  0]LogLoad: (Engine Initialization) Total time: 9.27 seconds
+[2019.10.10-16.19.04:540][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.10-16.19.04:571][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.10-16.19.04:616][  1]LogAssetRegistry: Asset discovery search completed in 4.2429 seconds
+[2019.10.10-16.19.04:619][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.10-16.19.04:619][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2019.10.10-16.22.23:603][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.22.23:723][ 72]LogRenderer: Reallocating scene render targets to support 1616x812 Format 10 NumSamples 1 (Frame:18065).
+[2019.10.10-16.22.23:812][ 74]LogRenderer: Reallocating scene render targets to support 1616x820 Format 10 NumSamples 1 (Frame:18069).
+[2019.10.10-16.22.23:861][ 75]LogRenderer: Reallocating scene render targets to support 1616x828 Format 10 NumSamples 1 (Frame:18071).
+[2019.10.10-16.22.23:907][ 76]LogRenderer: Reallocating scene render targets to support 1616x844 Format 10 NumSamples 1 (Frame:18073).
+[2019.10.10-16.22.23:956][ 77]LogRenderer: Reallocating scene render targets to support 1616x852 Format 10 NumSamples 1 (Frame:18075).
+[2019.10.10-16.22.24:002][ 78]LogRenderer: Reallocating scene render targets to support 1616x864 Format 10 NumSamples 1 (Frame:18077).
+[2019.10.10-16.22.24:049][ 79]LogRenderer: Reallocating scene render targets to support 1616x872 Format 10 NumSamples 1 (Frame:18079).
+[2019.10.10-16.22.24:095][ 80]LogRenderer: Reallocating scene render targets to support 1616x888 Format 10 NumSamples 1 (Frame:18081).
+[2019.10.10-16.22.24:140][ 81]LogRenderer: Reallocating scene render targets to support 1616x904 Format 10 NumSamples 1 (Frame:18083).
+[2019.10.10-16.22.24:187][ 82]LogRenderer: Reallocating scene render targets to support 1616x932 Format 10 NumSamples 1 (Frame:18085).
+[2019.10.10-16.22.24:235][ 83]LogRenderer: Reallocating scene render targets to support 1616x956 Format 10 NumSamples 1 (Frame:18087).
+[2019.10.10-16.22.24:289][ 84]LogRenderer: Reallocating scene render targets to support 1616x960 Format 10 NumSamples 1 (Frame:18089).
+[2019.10.10-16.22.24:495][ 98]LogRenderer: Reallocating scene render targets to support 1616x968 Format 10 NumSamples 1 (Frame:18093).
+[2019.10.10-16.22.24:543][ 99]LogRenderer: Reallocating scene render targets to support 1616x972 Format 10 NumSamples 1 (Frame:18095).
+[2019.10.10-16.22.24:625][102]LogRenderer: Reallocating scene render targets to support 1616x976 Format 10 NumSamples 1 (Frame:18097).
+[2019.10.10-16.22.24:738][106]LogRenderer: Reallocating scene render targets to support 1616x984 Format 10 NumSamples 1 (Frame:18101).
+[2019.10.10-16.22.24:792][107]LogRenderer: Reallocating scene render targets to support 1616x996 Format 10 NumSamples 1 (Frame:18103).
+[2019.10.10-16.22.24:841][108]LogRenderer: Reallocating scene render targets to support 1616x1004 Format 10 NumSamples 1 (Frame:18105).
+[2019.10.10-16.22.27:280][313]LogRenderer: Reallocating scene render targets to support 1620x1004 Format 10 NumSamples 1 (Frame:18253).
+[2019.10.10-16.22.27:322][314]LogRenderer: Reallocating scene render targets to support 1624x1004 Format 10 NumSamples 1 (Frame:18255).
+[2019.10.10-16.22.27:370][315]LogRenderer: Reallocating scene render targets to support 1628x1004 Format 10 NumSamples 1 (Frame:18257).
+[2019.10.10-16.22.27:420][316]LogRenderer: Reallocating scene render targets to support 1636x1004 Format 10 NumSamples 1 (Frame:18259).
+[2019.10.10-16.22.27:475][317]LogRenderer: Reallocating scene render targets to support 1644x1004 Format 10 NumSamples 1 (Frame:18261).
+[2019.10.10-16.22.27:526][318]LogRenderer: Reallocating scene render targets to support 1652x1004 Format 10 NumSamples 1 (Frame:18263).
+[2019.10.10-16.22.27:572][319]LogRenderer: Reallocating scene render targets to support 1668x1004 Format 10 NumSamples 1 (Frame:18265).
+[2019.10.10-16.22.27:623][320]LogRenderer: Reallocating scene render targets to support 1688x1004 Format 10 NumSamples 1 (Frame:18267).
+[2019.10.10-16.22.27:676][321]LogRenderer: Reallocating scene render targets to support 1696x1004 Format 10 NumSamples 1 (Frame:18269).
+[2019.10.10-16.22.27:842][335]LogRenderer: Reallocating scene render targets to support 1700x1004 Format 10 NumSamples 1 (Frame:18271).
+[2019.10.10-16.22.27:891][336]LogRenderer: Reallocating scene render targets to support 1704x1004 Format 10 NumSamples 1 (Frame:18273).
+[2019.10.10-16.22.27:941][337]LogRenderer: Reallocating scene render targets to support 1708x1004 Format 10 NumSamples 1 (Frame:18275).
+[2019.10.10-16.22.30:325][519]LogRenderer: Reallocating scene render targets to support 1712x1004 Format 10 NumSamples 1 (Frame:18401).
+[2019.10.10-16.22.58:223][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.24.01:248][859]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2019.10.10-16.24.23:832][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.24.38:905][628]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2019.10.10-16.24.40:457][735]Cmd: DELETE
+[2019.10.10-16.24.40:457][735]Cmd: ACTOR DELETE
+[2019.10.10-16.24.40:459][735]LogEditorActor: Deleted Actor: PointLight
+[2019.10.10-16.24.40:481][735]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.10-16.24.42:442][899]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.25.50:699][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.26.25:652][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.26.25:761][845]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.26.25:793][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.26.25:806][845]PIE: New page: PIE session: hall (Oct 10, 2019, 6:26:25 AM)
+[2019.10.10-16.26.25:806][845]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.26.25:807][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001305s)
+[2019.10.10-16.26.25:808][845]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.26.25:808][845]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2019.10.10-16.26.25:808][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002188s)
+[2019.10.10-16.26.25:834][845]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.26.25:842][845]LogInit: FAudioDevice initialized.
+[2019.10.10-16.26.26:181][845]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.26.26:183][845]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.26.26
+[2019.10.10-16.26.26:183][845]LogWorld: Bringing up level for play took: 0.000776
+[2019.10.10-16.26.26:199][845]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.10.10-16.26.26:202][845]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 1.316
+[2019.10.10-16.26.31:732][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.26.31:773][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.26.31:791][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.26.31:849][283]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.10-16.26.37:350][694]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.26.40:427][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.26.49:323][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.26.55:293][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.26.55:335][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.26.55:336][ 70]PIE: New page: PIE session: hall (Oct 10, 2019, 6:26:55 AM)
+[2019.10.10-16.26.55:336][ 70]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.26.55:337][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001133s)
+[2019.10.10-16.26.55:337][ 70]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.26.55:338][ 70]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2019.10.10-16.26.55:338][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001850s)
+[2019.10.10-16.26.55:364][ 70]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.26.55:371][ 70]LogInit: FAudioDevice initialized.
+[2019.10.10-16.26.55:400][ 70]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.26.55:402][ 70]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.26.55
+[2019.10.10-16.26.55:402][ 70]LogWorld: Bringing up level for play took: 0.000612
+[2019.10.10-16.26.55:416][ 70]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.532
+[2019.10.10-16.27.35:868][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.27.35:912][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.27.35:933][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.27.35:990][280]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.10.10-16.27.46:023][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.27.46:195][112]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Rendering/LightingAndShadows/LightTypes/SkyLight/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2019.10.10-16.28.32:259][469]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.28.38:035][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.29.17:603][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.29.28:401][212]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.29.28:446][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.29.28:446][212]PIE: New page: PIE session: hall (Oct 10, 2019, 6:29:28 AM)
+[2019.10.10-16.29.28:447][212]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.29.28:448][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001303s)
+[2019.10.10-16.29.28:448][212]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.29.28:449][212]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2019.10.10-16.29.28:449][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002087s)
+[2019.10.10-16.29.28:476][212]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.29.28:484][212]LogInit: FAudioDevice initialized.
+[2019.10.10-16.29.28:511][212]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.29.28:513][212]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.29.28
+[2019.10.10-16.29.28:513][212]LogWorld: Bringing up level for play took: 0.000843
+[2019.10.10-16.29.28:528][212]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.351
+[2019.10.10-16.29.42:624][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.29.42:663][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.29.42:683][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.29.42:739][489]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.10.10-16.29.44:303][627]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.10.10-16.29.49:221][ 52]Cmd: DELETE
+[2019.10.10-16.29.49:222][ 52]Cmd: ACTOR DELETE
+[2019.10.10-16.29.49:223][ 52]LogEditorActor: Deleted Actor: SkyLight
+[2019.10.10-16.29.49:241][ 52]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.10.10-16.29.50:398][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.30.07:531][642]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.30.07:566][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.30.07:566][642]PIE: New page: PIE session: hall (Oct 10, 2019, 6:30:07 AM)
+[2019.10.10-16.30.07:566][642]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.30.07:567][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001072s)
+[2019.10.10-16.30.07:567][642]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.30.07:568][642]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2019.10.10-16.30.07:568][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001746s)
+[2019.10.10-16.30.07:594][642]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.30.07:601][642]LogInit: FAudioDevice initialized.
+[2019.10.10-16.30.07:635][642]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.30.07:637][642]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.30.07
+[2019.10.10-16.30.07:637][642]LogWorld: Bringing up level for play took: 0.000724
+[2019.10.10-16.30.07:651][642]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.774
+[2019.10.10-16.30.12:176][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.30.12:217][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.30.12:237][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.30.12:292][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.10.10-16.30.14:246][217]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.30.22:406][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.31.38:289][256]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.10.10-16.31.52:687][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.31.56:090][928]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.31.56:123][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.31.56:123][928]PIE: New page: PIE session: hall (Oct 10, 2019, 6:31:56 AM)
+[2019.10.10-16.31.56:123][928]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.31.56:124][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001170s)
+[2019.10.10-16.31.56:125][928]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.31.56:125][928]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2019.10.10-16.31.56:125][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001995s)
+[2019.10.10-16.31.56:152][928]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.31.56:160][928]LogInit: FAudioDevice initialized.
+[2019.10.10-16.31.56:193][928]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.31.56:195][928]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.31.56
+[2019.10.10-16.31.56:195][928]LogWorld: Bringing up level for play took: 0.000705
+[2019.10.10-16.31.56:209][928]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.664
+[2019.10.10-16.32.09:975][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.32.10:014][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.32.10:034][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.32.10:080][243]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.10-16.32.21:473][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bathroom)
+[2019.10.10-16.32.24:240][590]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.10.10-16.32.35:788][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.32.39:991][136]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.32.40:025][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.32.40:025][136]PIE: New page: PIE session: hall (Oct 10, 2019, 6:32:40 AM)
+[2019.10.10-16.32.40:025][136]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.32.40:026][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001252s)
+[2019.10.10-16.32.40:027][136]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.32.40:027][136]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2019.10.10-16.32.40:027][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002031s)
+[2019.10.10-16.32.40:055][136]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.32.40:062][136]LogInit: FAudioDevice initialized.
+[2019.10.10-16.32.40:094][136]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.32.40:095][136]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.32.40
+[2019.10.10-16.32.40:095][136]LogWorld: Bringing up level for play took: 0.000629
+[2019.10.10-16.32.40:109][136]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.764
+[2019.10.10-16.32.43:445][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.32.43:485][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.32.43:506][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.32.43:555][463]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.10-16.32.48:369][928]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.10.10-16.32.50:314][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.32.56:315][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.32.56:398][665]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.32.56:431][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.32.56:431][665]PIE: New page: PIE session: hall (Oct 10, 2019, 6:32:56 AM)
+[2019.10.10-16.32.56:431][665]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.32.56:432][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001090s)
+[2019.10.10-16.32.56:433][665]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.32.56:433][665]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2019.10.10-16.32.56:433][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001780s)
+[2019.10.10-16.32.56:460][665]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.32.56:468][665]LogInit: FAudioDevice initialized.
+[2019.10.10-16.32.56:497][665]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.32.56:499][665]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.32.56
+[2019.10.10-16.32.56:499][665]LogWorld: Bringing up level for play took: 0.000550
+[2019.10.10-16.32.56:513][665]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.36
+[2019.10.10-16.33.01:152][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.33.01:195][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.33.01:216][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.33.01:270][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.10-16.33.03:082][253]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.33.06:050][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.33.41:322][255]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.33.41:356][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.33.41:356][255]PIE: New page: PIE session: hall (Oct 10, 2019, 6:33:41 AM)
+[2019.10.10-16.33.41:356][255]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.33.41:358][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001223s)
+[2019.10.10-16.33.41:358][255]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.33.41:358][255]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2019.10.10-16.33.41:358][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001916s)
+[2019.10.10-16.33.41:386][255]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.33.41:393][255]LogInit: FAudioDevice initialized.
+[2019.10.10-16.33.41:425][255]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.33.41:427][255]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.33.41
+[2019.10.10-16.33.41:427][255]LogWorld: Bringing up level for play took: 0.000590
+[2019.10.10-16.33.41:441][255]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.569
+[2019.10.10-16.33.50:762][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.33.50:806][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.33.50:826][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.33.50:883][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.10-16.34.04:562][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.34.06:773][280]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.34.11:908][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.35.57:190][414]Cmd: DELETE
+[2019.10.10-16.35.57:190][414]Cmd: ACTOR DELETE
+[2019.10.10-16.35.57:192][414]LogEditorActor: Deleted Actor: RectLight
+[2019.10.10-16.35.57:212][414]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2019.10.10-16.35.58:029][477]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.35.59:800][607]Cmd: DELETE
+[2019.10.10-16.35.59:800][607]Cmd: ACTOR DELETE
+[2019.10.10-16.35.59:802][607]LogEditorActor: Deleted Actor: SpotLight
+[2019.10.10-16.35.59:823][607]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.10.10-16.36.02:814][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.36.08:530][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.37.53:033][950]Cmd: DELETE
+[2019.10.10-16.37.53:033][950]Cmd: ACTOR DELETE
+[2019.10.10-16.37.53:035][950]LogEditorActor: Deleted Actor: RectLight
+[2019.10.10-16.37.53:054][950]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.10.10-16.37.54:494][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.38.27:614][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bathroom)
+[2019.10.10-16.38.36:596][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.38.48:366][676]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.10-16.38.59:918][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bathroom)
+[2019.10.10-16.39.02:797][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.40.10:247][261]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.10-16.40.11:562][363]Cmd: DELETE
+[2019.10.10-16.40.11:563][363]Cmd: ACTOR DELETE
+[2019.10.10-16.40.11:564][363]LogEditorActor: Deleted Actor: PointLight
+[2019.10.10-16.40.11:584][363]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.10.10-16.40.13:780][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.40.58:200][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.42.00:731][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.44.17:428][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.44.17:590][473]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.44.17:623][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.44.17:623][473]PIE: New page: PIE session: hall (Oct 10, 2019, 6:44:17 AM)
+[2019.10.10-16.44.17:624][473]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.44.17:625][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001262s)
+[2019.10.10-16.44.17:625][473]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.44.17:626][473]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2019.10.10-16.44.17:626][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002057s)
+[2019.10.10-16.44.17:654][473]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.44.17:662][473]LogInit: FAudioDevice initialized.
+[2019.10.10-16.44.17:691][473]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.44.17:693][473]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.44.17
+[2019.10.10-16.44.17:693][473]LogWorld: Bringing up level for play took: 0.000665
+[2019.10.10-16.44.17:707][473]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.842
+[2019.10.10-16.45.21:626][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.45.21:667][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.45.21:690][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.45.21:749][914]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.10-16.45.23:581][ 48]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.10.10-16.45.38:385][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.46.07:635][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.46.18:858][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.46.30:261][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.46.34:322][ 91]EditorErrors: New page: Actor attachment
+[2019.10.10-16.46.55:225][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.46.57:745][728]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.47.24:491][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.47.24:577][609]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.47.24:613][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.47.24:613][609]PIE: New page: PIE session: hall (Oct 10, 2019, 6:47:24 AM)
+[2019.10.10-16.47.24:613][609]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.47.24:614][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001442s)
+[2019.10.10-16.47.24:615][609]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.47.24:615][609]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2019.10.10-16.47.24:615][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002352s)
+[2019.10.10-16.47.24:644][609]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.47.24:651][609]LogInit: FAudioDevice initialized.
+[2019.10.10-16.47.24:684][609]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.47.24:686][609]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.47.24
+[2019.10.10-16.47.24:686][609]LogWorld: Bringing up level for play took: 0.000676
+[2019.10.10-16.47.24:700][609]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.165
+[2019.10.10-16.47.38:610][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.47.38:652][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.47.38:671][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.47.38:729][744]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.10-16.47.43:591][ 82]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.47.58:711][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.49.03:713][902]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.49.03:748][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.49.03:748][902]PIE: New page: PIE session: hall (Oct 10, 2019, 6:49:03 AM)
+[2019.10.10-16.49.03:748][902]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.49.03:750][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001304s)
+[2019.10.10-16.49.03:750][902]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.49.03:750][902]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.10.10-16.49.03:750][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002035s)
+[2019.10.10-16.49.03:777][902]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.49.03:784][902]LogInit: FAudioDevice initialized.
+[2019.10.10-16.49.03:815][902]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.49.03:817][902]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.49.03
+[2019.10.10-16.49.03:817][902]LogWorld: Bringing up level for play took: 0.000796
+[2019.10.10-16.49.03:830][902]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.966
+[2019.10.10-16.49.19:199][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.49.19:242][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.49.19:261][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.49.19:318][188]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.10-16.49.24:386][590]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2019.10.10-16.49.26:490][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.49.28:384][926]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.49.28:423][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.49.28:424][926]PIE: New page: PIE session: hall (Oct 10, 2019, 6:49:28 AM)
+[2019.10.10-16.49.28:424][926]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.49.28:425][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001186s)
+[2019.10.10-16.49.28:425][926]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.49.28:425][926]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2019.10.10-16.49.28:426][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001849s)
+[2019.10.10-16.49.28:453][926]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.49.28:460][926]LogInit: FAudioDevice initialized.
+[2019.10.10-16.49.28:491][926]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.49.28:493][926]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.49.28
+[2019.10.10-16.49.28:493][926]LogWorld: Bringing up level for play took: 0.000640
+[2019.10.10-16.49.28:507][926]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.358
+[2019.10.10-16.49.40:539][992]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-587.069 Y=1689.613 Z=260.095] for [FirstPersonProjectile_C]
+[2019.10.10-16.49.42:547][176]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-595.057 Y=1685.239 Z=260.574] for [FirstPersonProjectile_C]
+[2019.10.10-16.49.44:864][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.49.44:900][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.49.44:920][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.49.44:974][388]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.10-16.50.02:243][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.50.04:269][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.50.09:731][357]Cmd: DELETE
+[2019.10.10-16.50.09:731][357]Cmd: ACTOR DELETE
+[2019.10.10-16.50.09:733][357]LogEditorActor: Deleted Actor: RectLight
+[2019.10.10-16.50.09:753][357]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2019.10.10-16.50.14:892][757]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.50.17:721][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.50.21:430][224]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.50.21:467][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.50.21:467][224]PIE: New page: PIE session: hall (Oct 10, 2019, 6:50:21 AM)
+[2019.10.10-16.50.21:467][224]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.50.21:468][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001250s)
+[2019.10.10-16.50.21:469][224]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.50.21:469][224]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2019.10.10-16.50.21:469][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002088s)
+[2019.10.10-16.50.21:495][224]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.50.21:503][224]LogInit: FAudioDevice initialized.
+[2019.10.10-16.50.21:534][224]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.50.21:536][224]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.50.21
+[2019.10.10-16.50.21:536][224]LogWorld: Bringing up level for play took: 0.000681
+[2019.10.10-16.50.21:550][224]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.686
+[2019.10.10-16.50.27:161][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.50.27:200][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.50.27:220][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.50.27:276][715]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.10.10-16.50.29:338][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.50.31:608][ 65]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.10-16.50.50:298][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.50.54:528][796]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.10-16.50.57:137][982]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.51.55:778][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.52.15:973][670]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.52.16:008][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.52.16:008][670]PIE: New page: PIE session: hall (Oct 10, 2019, 6:52:16 AM)
+[2019.10.10-16.52.16:008][670]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.52.16:009][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001214s)
+[2019.10.10-16.52.16:010][670]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.52.16:010][670]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2019.10.10-16.52.16:010][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001963s)
+[2019.10.10-16.52.16:035][670]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.52.16:043][670]LogInit: FAudioDevice initialized.
+[2019.10.10-16.52.16:076][670]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.52.16:077][670]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.52.16
+[2019.10.10-16.52.16:077][670]LogWorld: Bringing up level for play took: 0.000626
+[2019.10.10-16.52.16:091][670]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.772
+[2019.10.10-16.52.30:571][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.52.30:608][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.52.30:629][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.52.30:684][976]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.10.10-16.52.36:849][456]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.52.46:479][120]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.10.10-16.52.50:777][428]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.53.03:774][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bathroom)
+[2019.10.10-16.53.04:591][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bathroom)
+[2019.10.10-16.53.06:792][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.53.15:525][158]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.53.21:067][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.53.21:166][549]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.53.21:210][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.53.21:211][549]PIE: New page: PIE session: hall (Oct 10, 2019, 6:53:21 AM)
+[2019.10.10-16.53.21:211][549]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.53.21:212][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001152s)
+[2019.10.10-16.53.21:212][549]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.53.21:212][549]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2019.10.10-16.53.21:212][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001788s)
+[2019.10.10-16.53.21:240][549]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.53.21:247][549]LogInit: FAudioDevice initialized.
+[2019.10.10-16.53.21:276][549]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.53.21:278][549]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.53.21
+[2019.10.10-16.53.21:278][549]LogWorld: Bringing up level for play took: 0.000622
+[2019.10.10-16.53.21:292][549]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.428
+[2019.10.10-16.53.27:901][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.53.27:942][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.53.27:961][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.53.28:016][118]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.10.10-16.53.31:344][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.53.52:528][ 82]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.54.33:188][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.55.00:185][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.55.15:798][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.55.20:463][316]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.55.20:507][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.55.20:508][316]PIE: New page: PIE session: hall (Oct 10, 2019, 6:55:20 AM)
+[2019.10.10-16.55.20:508][316]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.55.20:509][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001337s)
+[2019.10.10-16.55.20:510][316]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.55.20:510][316]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2019.10.10-16.55.20:510][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002100s)
+[2019.10.10-16.55.20:536][316]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.55.20:544][316]LogInit: FAudioDevice initialized.
+[2019.10.10-16.55.20:578][316]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.55.20:580][316]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.55.20
+[2019.10.10-16.55.20:580][316]LogWorld: Bringing up level for play took: 0.000603
+[2019.10.10-16.55.20:594][316]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.269
+[2019.10.10-16.55.29:431][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.55.29:467][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.55.29:489][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.55.29:544][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.10-16.55.36:560][603]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.55.43:410][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.56.16:819][469]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.10-16.56.20:843][756]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.10-16.56.28:338][305]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.10-16.56.29:222][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.56.29:303][374]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-16.56.29:340][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-16.56.29:340][374]PIE: New page: PIE session: hall (Oct 10, 2019, 6:56:29 AM)
+[2019.10.10-16.56.29:340][374]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-16.56.29:341][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001159s)
+[2019.10.10-16.56.29:342][374]LogAIModule: Creating AISystem for world hall
+[2019.10.10-16.56.29:342][374]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2019.10.10-16.56.29:342][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001902s)
+[2019.10.10-16.56.29:367][374]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-16.56.29:375][374]LogInit: FAudioDevice initialized.
+[2019.10.10-16.56.29:408][374]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-16.56.29:410][374]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-11.56.29
+[2019.10.10-16.56.29:410][374]LogWorld: Bringing up level for play took: 0.000729
+[2019.10.10-16.56.29:424][374]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.567
+[2019.10.10-16.56.40:644][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.56.40:684][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-16.56.40:705][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-16.56.40:759][381]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.10-16.56.45:513][740]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.10-16.57.16:833][163]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.10-16.57.25:840][847]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.10-16.57.25:901][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Room/hall" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/Geometry/Room/hall_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.10-16.57.26:578][847]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/hall_Auto10E11F003411CBF8EF54B00A8C51A7D98.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/Geometry/Room/hall_Auto1.umap'
+[2019.10.10-16.57.26:606][847]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Geometry/Room/hall' took 0.727
+[2019.10.10-16.57.26:606][847]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.727
+[2019.10.10-16.58.56:497][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.59.06:423][404]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.10.10-16.59.07:024][404]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.10.10-16.59.13:561][958]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.10-16.59.13:935][958]LogSlate: Took 0.004842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.10-16.59.52:369][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-16.59.53:124][ 98]LogRenderer: Reallocating scene render targets to support 1712x1260 Format 10 NumSamples 1 (Frame:1002).
+[2019.10.10-16.59.53:929][146]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.10-17.00.02:677][849]LogEditorActor: Deleted Actor: SpotLight
+[2019.10.10-17.00.02:710][849]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.10.10-17.00.34:165][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.10-17.01.14:181][489]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.10-17.01.29:470][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.01.36:574][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.02.04:747][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.02.18:763][366]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.10-17.02.18:814][366]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Test2
+[2019.10.10-17.02.18:814][366]LogTemp: CWD: C:\iam.local\isilon\user\Michael.Morrone\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.10.10-17.02.18:814][366]LogTemp: Initial Dir: C:\iam.local\isilon\user\Michael.Morrone\UE_4.20
+[2019.10.10-17.02.18:814][366]LogTemp: Env CWD: C:\iam.local\isilon\user\Michael.Morrone\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.10.10-17.02.18:819][366]LogTemp: BranchPath = 916-IAM-B-EGGS/C/iam.local/isilon/user/Michael.Morrone/UE_4.20/Engine/Binaries --- GameBranchPath = 916-IAM-B-EGGS/C/iam.local/isilon/user/Michael.Morrone/UE_4.20/Engine/Binaries
+[2019.10.10-17.02.18:860][367]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\daniel.collins\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.10.10-17.05.00:536][592]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.10-17.05.00:557][592]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.10-17.05.45:363][ 92]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.10-17.05.50:032][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.10.10-17.05.52:764][539]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/FirstPersonCharacter9A3CAB8345520B7E95F1CDA84EA4495D.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.10-17.06.00:815][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.06.00:911][214]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-17.06.00:954][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-17.06.00:955][214]PIE: New page: PIE session: hall (Oct 10, 2019, 7:06:00 AM)
+[2019.10.10-17.06.00:955][214]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-17.06.00:956][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001190s)
+[2019.10.10-17.06.00:956][214]LogAIModule: Creating AISystem for world hall
+[2019.10.10-17.06.00:957][214]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2019.10.10-17.06.00:957][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001958s)
+[2019.10.10-17.06.00:988][214]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-17.06.00:995][214]LogInit: FAudioDevice initialized.
+[2019.10.10-17.06.01:026][214]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-17.06.01:028][214]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-12.06.01
+[2019.10.10-17.06.01:028][214]LogWorld: Bringing up level for play took: 0.000583
+[2019.10.10-17.06.01:042][214]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.225
+[2019.10.10-17.06.55:197][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.06.55:234][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-17.06.55:259][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.06.55:311][491]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.10.10-17.06.57:377][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.07.09:510][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.10.14:119][393]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.10-17.10.15:353][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.10.10-17.10.18:032][491]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/FirstPersonCharacter56E605694E5A8EB1468148824DC31721.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.10-17.10.33:087][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.10.45:215][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.11.08:111][946]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.10-17.11.10:796][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.10.10-17.11.13:560][196]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/FirstPersonCharacterCA3B092447CB55A2645223A93B73A5F9.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.10-17.11.16:198][412]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-17.11.16:312][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-17.11.16:313][412]PIE: New page: PIE session: hall (Oct 10, 2019, 7:11:16 AM)
+[2019.10.10-17.11.16:313][412]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-17.11.16:314][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001090s)
+[2019.10.10-17.11.16:314][412]LogAIModule: Creating AISystem for world hall
+[2019.10.10-17.11.16:314][412]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2019.10.10-17.11.16:315][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001809s)
+[2019.10.10-17.11.16:348][412]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-17.11.16:355][412]LogInit: FAudioDevice initialized.
+[2019.10.10-17.11.16:386][412]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-17.11.16:387][412]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-12.11.16
+[2019.10.10-17.11.16:387][412]LogWorld: Bringing up level for play took: 0.000572
+[2019.10.10-17.11.16:401][412]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.404
+[2019.10.10-17.11.37:798][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.11.37:835][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-17.11.37:860][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.11.37:903][467]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.10.10-17.11.41:462][753]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2019.10.10-17.11.43:704][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.11.50:936][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.11.51:041][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Room/hall" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.10-17.11.51:678][505]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/hallA9E3857E4888D3EEC59C1285AFEB17FE.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall.umap'
+[2019.10.10-17.11.51:770][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Room/hall_BuiltData" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall_BuiltData.uasset" SILENT=true
+[2019.10.10-17.11.51:832][505]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/hall_BuiltDataC570F5B449D34E1988AABC9CCBB8D6CA.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall_BuiltData.uasset'
+[2019.10.10-17.19.12:293][159]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.10.10-17.19.20:372][738]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.10-17.19.26:464][161]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.10-17.19.32:723][614]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.10-17.19.32:735][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Room/hall" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.10-17.19.33:356][614]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/hall696080FA411F972F03E3FC93B4A6EDB2.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall.umap'
+[2019.10.10-17.19.33:450][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Room/hall_BuiltData" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall_BuiltData.uasset" SILENT=true
+[2019.10.10-17.19.33:624][614]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/hall_BuiltData26561989444277A7B6433388D0C64ECB.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall_BuiltData.uasset'
+[2019.10.10-17.31.55:485][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.31.55:589][387]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-17.31.55:627][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-17.31.55:628][387]PIE: New page: PIE session: hall (Oct 10, 2019, 7:31:55 AM)
+[2019.10.10-17.31.55:628][387]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-17.31.55:629][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001279s)
+[2019.10.10-17.31.55:630][387]LogAIModule: Creating AISystem for world hall
+[2019.10.10-17.31.55:630][387]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2019.10.10-17.31.55:630][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002093s)
+[2019.10.10-17.31.55:664][387]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-17.31.55:673][387]LogInit: FAudioDevice initialized.
+[2019.10.10-17.31.55:704][387]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-17.31.55:706][387]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-12.31.55
+[2019.10.10-17.31.55:706][387]LogWorld: Bringing up level for play took: 0.000650
+[2019.10.10-17.31.55:720][387]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.952
+[2019.10.10-17.32.41:566][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.32.41:603][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-17.32.41:628][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.32.41:682][518]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.10.10-17.32.43:048][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.37.37:433][395]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.10-17.37.39:762][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.10.10-17.37.42:493][634]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/FirstPersonCharacter1877B8004A273499950E5CA2940C240F.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.10-17.49.05:370][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.49.05:440][517]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-17.49.05:480][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-17.49.05:480][517]PIE: New page: PIE session: hall (Oct 10, 2019, 7:49:05 AM)
+[2019.10.10-17.49.05:480][517]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-17.49.05:482][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001292s)
+[2019.10.10-17.49.05:482][517]LogAIModule: Creating AISystem for world hall
+[2019.10.10-17.49.05:482][517]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2019.10.10-17.49.05:482][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002077s)
+[2019.10.10-17.49.05:517][517]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-17.49.05:525][517]LogInit: FAudioDevice initialized.
+[2019.10.10-17.49.05:557][517]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-17.49.05:558][517]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-12.49.05
+[2019.10.10-17.49.05:558][517]LogWorld: Bringing up level for play took: 0.000640
+[2019.10.10-17.49.05:571][517]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.857
+[2019.10.10-17.49.46:174][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.49.46:214][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-17.49.46:235][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.49.46:293][148]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.10.10-17.54.51:805][599]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2019.10.10-17.54.57:510][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bathroom)
+[2019.10.10-17.55.02:362][341]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2019.10.10-17.55.36:360][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.56.41:282][649]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.10-17.56.43:106][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.10.10-17.56.45:870][819]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/FirstPersonCharacter2DEAEF504015C3AD0753B9854363C5B5.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.10-17.56.48:089][991]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-17.56.48:133][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-17.56.48:133][991]PIE: New page: PIE session: hall (Oct 10, 2019, 7:56:48 AM)
+[2019.10.10-17.56.48:134][991]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-17.56.48:135][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001184s)
+[2019.10.10-17.56.48:135][991]LogAIModule: Creating AISystem for world hall
+[2019.10.10-17.56.48:136][991]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2019.10.10-17.56.48:136][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001936s)
+[2019.10.10-17.56.48:168][991]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-17.56.48:176][991]LogInit: FAudioDevice initialized.
+[2019.10.10-17.56.48:206][991]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-17.56.48:208][991]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-12.56.48
+[2019.10.10-17.56.48:208][991]LogWorld: Bringing up level for play took: 0.000608
+[2019.10.10-17.56.48:222][991]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.481
+[2019.10.10-17.57.47:467][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.57.47:511][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-17.57.47:539][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.57.47:572][459]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.10.10-17.57.48:904][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.58.12:123][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.58.12:207][307]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.10-17.58.19:850][  1]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-17.58.19:891][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-17.58.19:891][  1]PIE: New page: PIE session: hall (Oct 10, 2019, 7:58:19 AM)
+[2019.10.10-17.58.19:891][  1]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-17.58.19:892][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001111s)
+[2019.10.10-17.58.19:892][  1]LogAIModule: Creating AISystem for world hall
+[2019.10.10-17.58.19:892][  1]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2019.10.10-17.58.19:892][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001827s)
+[2019.10.10-17.58.19:927][  1]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-17.58.19:934][  1]LogInit: FAudioDevice initialized.
+[2019.10.10-17.58.19:968][  1]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-17.58.19:970][  1]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-12.58.19
+[2019.10.10-17.58.19:970][  1]LogWorld: Bringing up level for play took: 0.000771
+[2019.10.10-17.58.19:984][  1]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.717
+[2019.10.10-17.58.26:516][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.58.26:556][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-17.58.26:585][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.58.26:619][539]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.10.10-17.58.28:344][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.58.41:706][231]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.10-17.58.46:904][671]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-17.58.46:944][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-17.58.46:944][671]PIE: New page: PIE session: hall (Oct 10, 2019, 7:58:46 AM)
+[2019.10.10-17.58.46:944][671]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-17.58.46:945][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001258s)
+[2019.10.10-17.58.46:946][671]LogAIModule: Creating AISystem for world hall
+[2019.10.10-17.58.46:946][671]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2019.10.10-17.58.46:946][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002031s)
+[2019.10.10-17.58.46:978][671]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-17.58.46:985][671]LogInit: FAudioDevice initialized.
+[2019.10.10-17.58.47:015][671]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-17.58.47:016][671]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-12.58.47
+[2019.10.10-17.58.47:016][671]LogWorld: Bringing up level for play took: 0.000579
+[2019.10.10-17.58.47:030][671]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.329
+[2019.10.10-17.58.54:575][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.58.54:619][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-17.58.54:645][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.58.54:680][299]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.10.10-17.58.55:912][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.59.07:582][746]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.10-17.59.12:945][158]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-17.59.12:989][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-17.59.12:990][158]PIE: New page: PIE session: hall (Oct 10, 2019, 7:59:12 AM)
+[2019.10.10-17.59.12:990][158]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-17.59.12:991][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001345s)
+[2019.10.10-17.59.12:992][158]LogAIModule: Creating AISystem for world hall
+[2019.10.10-17.59.12:992][158]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2019.10.10-17.59.12:992][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002091s)
+[2019.10.10-17.59.13:028][158]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-17.59.13:035][158]LogInit: FAudioDevice initialized.
+[2019.10.10-17.59.13:067][158]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-17.59.13:069][158]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-12.59.13
+[2019.10.10-17.59.13:069][158]LogWorld: Bringing up level for play took: 0.000803
+[2019.10.10-17.59.13:083][158]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.382
+[2019.10.10-17.59.30:895][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.59.30:937][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-17.59.30:960][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-17.59.30:997][702]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.10.10-17.59.32:490][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-17.59.46:950][452]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.10-17.59.47:469][468]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.10-17.59.48:673][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.10.10-17.59.51:268][564]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/FirstPersonCharacterE53CD59D4299727459287EB8BA58F98F.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.10-17.59.53:194][691]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-17.59.53:247][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-17.59.53:247][691]PIE: New page: PIE session: hall (Oct 10, 2019, 7:59:53 AM)
+[2019.10.10-17.59.53:247][691]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-17.59.53:248][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001245s)
+[2019.10.10-17.59.53:249][691]LogAIModule: Creating AISystem for world hall
+[2019.10.10-17.59.53:249][691]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2019.10.10-17.59.53:249][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001997s)
+[2019.10.10-17.59.53:284][691]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-17.59.53:292][691]LogInit: FAudioDevice initialized.
+[2019.10.10-17.59.53:322][691]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-17.59.53:324][691]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-12.59.53
+[2019.10.10-17.59.53:324][691]LogWorld: Bringing up level for play took: 0.000756
+[2019.10.10-17.59.53:338][691]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.638
+[2019.10.10-18.00.32:984][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-18.00.33:022][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-18.00.33:050][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-18.00.33:084][376]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.10.10-18.00.41:247][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.00.41:317][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-18.00.41:358][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-18.00.41:358][ 94]PIE: New page: PIE session: hall (Oct 10, 2019, 8:00:41 AM)
+[2019.10.10-18.00.41:358][ 94]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-18.00.41:360][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001235s)
+[2019.10.10-18.00.41:360][ 94]LogAIModule: Creating AISystem for world hall
+[2019.10.10-18.00.41:360][ 94]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2019.10.10-18.00.41:360][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001949s)
+[2019.10.10-18.00.41:391][ 94]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-18.00.41:399][ 94]LogInit: FAudioDevice initialized.
+[2019.10.10-18.00.41:434][ 94]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-18.00.41:436][ 94]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-13.00.41
+[2019.10.10-18.00.41:436][ 94]LogWorld: Bringing up level for play took: 0.000765
+[2019.10.10-18.00.41:449][ 94]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.75
+[2019.10.10-18.00.55:550][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-18.00.55:592][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-18.00.55:620][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-18.00.55:657][237]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.10.10-18.00.59:496][515]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.10-18.00.59:507][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Room/hall" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.10-18.01.00:128][515]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/hall3B322A6E415D7C59A745B9B3E97838D8.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall.umap'
+[2019.10.10-18.01.00:216][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Room/hall_BuiltData" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall_BuiltData.uasset" SILENT=true
+[2019.10.10-18.01.00:278][515]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/hall_BuiltData22D8CAE5423A9FA458B9B0BB048E9046.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall_BuiltData.uasset'
+[2019.10.10-18.01.29:918][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.26.51:486][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.26.51:618][715]AssetReimport: New page: Outstanding source content changes 8:26:51 AM
+[2019.10.10-18.26.51:622][715]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/Import/Assets/door.fbx)
+[2019.10.10-18.26.51:658][715]LogFbx: Loading FBX Scene from D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/Import/Assets/door.fbx
+[2019.10.10-18.26.51:675][715]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.10-18.27.04:074][715]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.10-18.27.04:144][715]LogFbx: =================================================
+[2019.10.10-18.27.04:144][715]LogFbx: Dumping Node START [polySurface105] 
+[2019.10.10-18.27.04:144][715]LogFbx: 	Total Deformer Count 918654944.
+[2019.10.10-18.27.04:144][715]LogFbx: 	Attribute () Type (4).
+[2019.10.10-18.27.04:144][715]LogFbx: 		[Node Attribute Child 1] polySurface105 (Type Mesh).
+[2019.10.10-18.27.04:144][715]LogFbx: Dumping Node END [polySurface105]
+[2019.10.10-18.27.04:144][715]LogFbx: =================================================
+[2019.10.10-18.27.04:144][715]LogFbx: Dumping Node START [polySurface106] 
+[2019.10.10-18.27.04:144][715]LogFbx: 	Total Deformer Count 918654944.
+[2019.10.10-18.27.04:144][715]LogFbx: 	Attribute () Type (4).
+[2019.10.10-18.27.04:144][715]LogFbx: 		[Node Attribute Child 1] polySurface106 (Type Mesh).
+[2019.10.10-18.27.04:144][715]LogFbx: Dumping Node END [polySurface106]
+[2019.10.10-18.27.04:144][715]LogFbx: =================================================
+[2019.10.10-18.27.04:144][715]LogFbx: Dumping Node START [polySurface113] 
+[2019.10.10-18.27.04:144][715]LogFbx: 	Total Deformer Count 918654944.
+[2019.10.10-18.27.04:144][715]LogFbx: 	Attribute () Type (4).
+[2019.10.10-18.27.04:145][715]LogFbx: 		[Node Attribute Child 1] polySurface113 (Type Mesh).
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node END [polySurface113]
+[2019.10.10-18.27.04:145][715]LogFbx: =================================================
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node START [polySurface112] 
+[2019.10.10-18.27.04:145][715]LogFbx: 	Total Deformer Count 918654944.
+[2019.10.10-18.27.04:145][715]LogFbx: 	Attribute () Type (4).
+[2019.10.10-18.27.04:145][715]LogFbx: 		[Node Attribute Child 1] polySurface112 (Type Mesh).
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node END [polySurface112]
+[2019.10.10-18.27.04:145][715]LogFbx: =================================================
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node START [polySurface113] 
+[2019.10.10-18.27.04:145][715]LogFbx: 	Total Deformer Count 918654944.
+[2019.10.10-18.27.04:145][715]LogFbx: 	Attribute () Type (4).
+[2019.10.10-18.27.04:145][715]LogFbx: 		[Node Attribute Child 1] polySurface113 (Type Mesh).
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node END [polySurface113]
+[2019.10.10-18.27.04:145][715]LogFbx: =================================================
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node START [polySurface112] 
+[2019.10.10-18.27.04:145][715]LogFbx: 	Total Deformer Count 918654944.
+[2019.10.10-18.27.04:145][715]LogFbx: 	Attribute () Type (4).
+[2019.10.10-18.27.04:145][715]LogFbx: 		[Node Attribute Child 1] polySurface112 (Type Mesh).
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node END [polySurface112]
+[2019.10.10-18.27.04:145][715]LogFbx: =================================================
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node START [polySurface105] 
+[2019.10.10-18.27.04:145][715]LogFbx: 	Total Deformer Count 918654944.
+[2019.10.10-18.27.04:145][715]LogFbx: 	Attribute () Type (4).
+[2019.10.10-18.27.04:145][715]LogFbx: 		[Node Attribute Child 1] polySurface105 (Type Mesh).
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node END [polySurface105]
+[2019.10.10-18.27.04:145][715]LogFbx: =================================================
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node START [polySurface106] 
+[2019.10.10-18.27.04:145][715]LogFbx: 	Total Deformer Count 918654944.
+[2019.10.10-18.27.04:145][715]LogFbx: 	Attribute () Type (4).
+[2019.10.10-18.27.04:145][715]LogFbx: 		[Node Attribute Child 1] polySurface106 (Type Mesh).
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node END [polySurface106]
+[2019.10.10-18.27.04:145][715]LogFbx: =================================================
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node START [polySurface105] 
+[2019.10.10-18.27.04:145][715]LogFbx: 	Total Deformer Count 918654944.
+[2019.10.10-18.27.04:145][715]LogFbx: 	Attribute () Type (4).
+[2019.10.10-18.27.04:145][715]LogFbx: 		[Node Attribute Child 1] polySurface105 (Type Mesh).
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node END [polySurface105]
+[2019.10.10-18.27.04:145][715]LogFbx: =================================================
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node START [polySurface106] 
+[2019.10.10-18.27.04:145][715]LogFbx: 	Total Deformer Count 918654944.
+[2019.10.10-18.27.04:145][715]LogFbx: 	Attribute () Type (4).
+[2019.10.10-18.27.04:145][715]LogFbx: 		[Node Attribute Child 1] polySurface106 (Type Mesh).
+[2019.10.10-18.27.04:145][715]LogFbx: Dumping Node END [polySurface106]
+[2019.10.10-18.27.04:667][715]LogFbx: Triangulating skeletal mesh polySurface105
+[2019.10.10-18.27.04:676][715]LogFbx: Triangulating skeletal mesh polySurface106
+[2019.10.10-18.27.04:713][715]LogSkeletalMesh: Section 0: 530 vertices, 2 active bones
+[2019.10.10-18.27.04:713][715]LogSkeletalMesh: Section 0: Material=0, 456 triangles
+[2019.10.10-18.27.04:715][715]LogSkeletalMesh: Building Skeletal Mesh door_polySurface105...
+[2019.10.10-18.27.04:715][715]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Room/Import/Assets/door.door_polySurface105
+[2019.10.10-18.27.04:716][715]LogLinker: Can't find file '/Game/Geometry/Room/Import/Assets/door_polySurface105_Skeleton'
+[2019.10.10-18.27.04:717][715]LogLinker: Can't find file '/Game/Geometry/Room/Import/Assets/door_polySurface105_Skeleton'
+[2019.10.10-18.27.04:790][715]LogLinker: Can't find file '/Game/Geometry/Room/Import/Assets/door_polySurface105_PhysicsAsset'
+[2019.10.10-18.27.04:791][715]LogLinker: Can't find file '/Game/Geometry/Room/Import/Assets/door_polySurface105_PhysicsAsset'
+[2019.10.10-18.27.04:834][715]LogSkeletalMesh: Building Skeletal Mesh door_polySurface105...
+[2019.10.10-18.27.04:834][715]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Room/Import/Assets/door.door_polySurface105
+[2019.10.10-18.27.04:835][715]LogFbx: Triangulating skeletal mesh polySurface113
+[2019.10.10-18.27.04:840][715]LogSkeletalMesh: Section 0: 106 vertices, 1 active bones
+[2019.10.10-18.27.04:840][715]LogSkeletalMesh: Section 0: Material=0, 116 triangles
+[2019.10.10-18.27.04:842][715]LogSkeletalMesh: Building Skeletal Mesh door_polySurface113...
+[2019.10.10-18.27.04:842][715]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Room/Import/Assets/door.door_polySurface113
+[2019.10.10-18.27.04:843][715]LogLinker: Can't find file '/Game/Geometry/Room/Import/Assets/door_polySurface113_Skeleton'
+[2019.10.10-18.27.04:843][715]LogLinker: Can't find file '/Game/Geometry/Room/Import/Assets/door_polySurface113_Skeleton'
+[2019.10.10-18.27.04:917][715]LogLinker: Can't find file '/Game/Geometry/Room/Import/Assets/door_polySurface113_PhysicsAsset'
+[2019.10.10-18.27.04:917][715]LogLinker: Can't find file '/Game/Geometry/Room/Import/Assets/door_polySurface113_PhysicsAsset'
+[2019.10.10-18.27.04:942][715]LogSkeletalMesh: Building Skeletal Mesh door_polySurface113...
+[2019.10.10-18.27.04:942][715]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Room/Import/Assets/door.door_polySurface113
+[2019.10.10-18.27.04:943][715]LogFbx: Triangulating skeletal mesh polySurface112
+[2019.10.10-18.27.04:952][715]LogSkeletalMesh: Section 0: 102 vertices, 1 active bones
+[2019.10.10-18.27.04:952][715]LogSkeletalMesh: Section 0: Material=0, 116 triangles
+[2019.10.10-18.27.04:953][715]LogSkeletalMesh: Building Skeletal Mesh door_polySurface112...
+[2019.10.10-18.27.04:954][715]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Room/Import/Assets/door.door_polySurface112
+[2019.10.10-18.27.04:954][715]LogLinker: Can't find file '/Game/Geometry/Room/Import/Assets/door_polySurface112_Skeleton'
+[2019.10.10-18.27.04:955][715]LogLinker: Can't find file '/Game/Geometry/Room/Import/Assets/door_polySurface112_Skeleton'
+[2019.10.10-18.27.05:015][715]LogLinker: Can't find file '/Game/Geometry/Room/Import/Assets/door_polySurface112_PhysicsAsset'
+[2019.10.10-18.27.05:016][715]LogLinker: Can't find file '/Game/Geometry/Room/Import/Assets/door_polySurface112_PhysicsAsset'
+[2019.10.10-18.27.05:046][715]LogSkeletalMesh: Building Skeletal Mesh door_polySurface112...
+[2019.10.10-18.27.05:047][715]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Room/Import/Assets/door.door_polySurface112
+[2019.10.10-18.27.05:067][715]LogSkeletalMesh: Building Skeletal Mesh door_polySurface112...
+[2019.10.10-18.27.05:067][715]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Room/Import/Assets/door.door_polySurface112
+[2019.10.10-18.27.05:284][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Room/Import/Assets/door" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/Import/Assets/door.uasset" SILENT=true
+[2019.10.10-18.27.05:873][716]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/doorF513007E4CE6F091195C9B845A2E83C8.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/Import/Assets/door.uasset'
+[2019.10.10-18.27.06:647][750]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.10-18.27.07:195][781]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.10-18.27.08:011][827]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.10-18.27.08:043][828]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.10-18.27.08:438][851]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.10-18.27.08:913][877]AssetReimport: Importing new asset /Game/Geometry/Room/Import/Assets/door.
+[2019.10.10-18.27.10:277][952]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.10-18.27.10:655][974]LogSlate: Window 'Message Log' being destroyed
+[2019.10.10-18.27.10:676][974]LogSlate: Window 'Message Log' being destroyed
+[2019.10.10-18.27.36:861][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.27.48:008][472]Cmd: TRANSACTION UNDO
+[2019.10.10-18.27.48:008][472]LogEditorTransaction: Undo Create Actors
+[2019.10.10-18.27.51:880][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.28.11:212][893]LogEditorViewport: Clicking Background
+[2019.10.10-18.28.27:885][225]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (door_polySurface105)
+[2019.10.10-18.28.34:061][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.29.34:139][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.31.31:646][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.31.31:760][760]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-18.31.31:878][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-18.31.31:878][760]PIE: New page: PIE session: hall (Oct 10, 2019, 8:31:31 AM)
+[2019.10.10-18.31.31:878][760]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-18.31.31:897][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019931s)
+[2019.10.10-18.31.31:898][760]LogAIModule: Creating AISystem for world hall
+[2019.10.10-18.31.31:898][760]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2019.10.10-18.31.31:898][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.020881s)
+[2019.10.10-18.31.31:935][760]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-18.31.31:944][760]LogInit: FAudioDevice initialized.
+[2019.10.10-18.31.31:974][760]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-18.31.31:977][760]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-13.31.31
+[2019.10.10-18.31.31:977][760]LogWorld: Bringing up level for play took: 0.001655
+[2019.10.10-18.31.31:992][760]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall -0.629
+[2019.10.10-18.31.41:758][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-18.31.41:808][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-18.31.41:834][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-18.31.41:871][423]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.10.10-18.31.46:282][703]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (door_polySurface112_PhysicsAsset)
+[2019.10.10-18.31.47:226][759]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (door_polySurface105_Skeleton)
+[2019.10.10-18.31.48:746][851]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (door_polySurface113_Skeleton)
+[2019.10.10-18.31.49:542][898]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (door_polySurface112_PhysicsAsset)
+[2019.10.10-18.31.56:231][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.31.59:396][515]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.10.10-18.31.59:397][515]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.10.10-18.31.59:397][515]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.10.10-18.31.59:398][515]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.10.10-18.31.59:398][515]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.10.10-18.31.59:399][515]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.10.10-18.31.59:399][515]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.10.10-18.31.59:399][515]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.10.10-18.31.59:400][515]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.10.10-18.31.59:424][515]LogEditorActor: Deleted 9 Actors (0.032 secs)
+[2019.10.10-18.32.02:674][759]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-18.32.02:711][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-18.32.02:711][759]PIE: New page: PIE session: hall (Oct 10, 2019, 8:32:02 AM)
+[2019.10.10-18.32.02:712][759]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-18.32.02:713][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001342s)
+[2019.10.10-18.32.02:713][759]LogAIModule: Creating AISystem for world hall
+[2019.10.10-18.32.02:714][759]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2019.10.10-18.32.02:714][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.002076s)
+[2019.10.10-18.32.02:746][759]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-18.32.02:753][759]LogInit: FAudioDevice initialized.
+[2019.10.10-18.32.02:784][759]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-18.32.02:785][759]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-13.32.02
+[2019.10.10-18.32.02:785][759]LogWorld: Bringing up level for play took: 0.000646
+[2019.10.10-18.32.02:799][759]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.179
+[2019.10.10-18.32.19:736][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-18.32.19:776][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-18.32.19:801][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-18.32.19:835][163]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.10.10-18.32.28:923][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-18.33.17:181][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Room/hall" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/Geometry/Room/hall_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.10-18.33.17:829][729]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/hall_Auto21BA7DA9146E03AB4987308AEC4B2ED51.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/Geometry/Room/hall_Auto2.umap'
+[2019.10.10-18.33.17:855][729]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Geometry/Room/hall' took 0.700
+[2019.10.10-18.33.17:855][729]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.700
+[2019.10.10-18.33.17:874][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Room/Import/Assets/lambert1] ([1] browsable assets)...
+[2019.10.10-18.33.17:903][729]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Room/Import/Assets/lambert1.lambert1]
+[2019.10.10-18.33.17:903][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Room/Import/Assets/lambert1]
+[2019.10.10-18.33.17:943][729]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/lambert1_Auto20C3615334E4AA068C685B0B4472FADD1.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/Geometry/Room/Import/Assets/lambert1_Auto2.uasset'
+[2019.10.10-18.33.17:949][729]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/Room/Import/Assets/door_polySurface105_Skeleton] ([1] browsable assets)...
+[2019.10.10-18.33.17:949][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Room/Import/Assets/door_polySurface105_Skeleton]
+[2019.10.10-18.33.17:984][729]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/door_polySurface105_Skeleton_Aut49C62A94488E2329E929A0BAFC50943F.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/Geometry/Room/Import/Assets/door_polySurface105_Skeleton_Auto2.uasset'
+[2019.10.10-18.33.17:990][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Room/Import/Assets/door_polySurface105_PhysicsAsset] ([1] browsable assets)...
+[2019.10.10-18.33.18:020][729]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Geometry/Room/Import/Assets/door_polySurface105_PhysicsAsset.door_polySurface105_PhysicsAsset]
+[2019.10.10-18.33.18:020][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Room/Import/Assets/door_polySurface105_PhysicsAsset]
+[2019.10.10-18.33.18:056][729]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/door_polySurface105_PhysicsAssetA9F319134D8C85342CD837B12132938F.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/Geometry/Room/Import/Assets/door_polySurface105_PhysicsAsset_Auto2.uasset'
+[2019.10.10-18.33.18:062][729]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/Room/Import/Assets/door_polySurface113_Skeleton] ([1] browsable assets)...
+[2019.10.10-18.33.18:062][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Room/Import/Assets/door_polySurface113_Skeleton]
+[2019.10.10-18.33.18:088][729]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/door_polySurface113_Skeleton_AutBC50BD7146655FF04389428E39A13220.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/Geometry/Room/Import/Assets/door_polySurface113_Skeleton_Auto2.uasset'
+[2019.10.10-18.33.18:095][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Room/Import/Assets/door_polySurface113_PhysicsAsset] ([1] browsable assets)...
+[2019.10.10-18.33.18:125][729]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Geometry/Room/Import/Assets/door_polySurface113_PhysicsAsset.door_polySurface113_PhysicsAsset]
+[2019.10.10-18.33.18:125][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Room/Import/Assets/door_polySurface113_PhysicsAsset]
+[2019.10.10-18.33.18:176][729]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/door_polySurface113_PhysicsAssetC8053C4F4AE1E3CD6B22FEAD8549D76B.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/Geometry/Room/Import/Assets/door_polySurface113_PhysicsAsset_Auto2.uasset'
+[2019.10.10-18.33.18:182][729]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/Room/Import/Assets/door_polySurface112_Skeleton] ([1] browsable assets)...
+[2019.10.10-18.33.18:182][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Room/Import/Assets/door_polySurface112_Skeleton]
+[2019.10.10-18.33.18:211][729]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/door_polySurface112_Skeleton_Aut017C26B14BE010A3C84F86A14E37F4BB.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/Geometry/Room/Import/Assets/door_polySurface112_Skeleton_Auto2.uasset'
+[2019.10.10-18.33.18:218][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Room/Import/Assets/door_polySurface112_PhysicsAsset] ([1] browsable assets)...
+[2019.10.10-18.33.18:248][729]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Geometry/Room/Import/Assets/door_polySurface112_PhysicsAsset.door_polySurface112_PhysicsAsset]
+[2019.10.10-18.33.18:248][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Room/Import/Assets/door_polySurface112_PhysicsAsset]
+[2019.10.10-18.33.18:285][729]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/door_polySurface112_PhysicsAssetFA128C7C4A55E2FBFD31E2B9552AC75A.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/Autosaves/Game/Geometry/Room/Import/Assets/door_polySurface112_PhysicsAsset_Auto2.uasset'
+[2019.10.10-18.33.18:290][729]LogFileHelpers: Auto-saving content packages took 0.434
+[2019.10.10-18.55.56:681][473]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.10-19.00.41:632][ 45]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+[2019.10.10-19.00.41:669][ 45]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.10.10-19.00.42:003][ 45]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.10-19.00.42:011][ 45]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.10.10-19.00.42:067][ 45]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.10-19.00.42:369][ 45]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.10.10-19.01.04:710][846]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-19.01.04:750][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-19.01.04:750][846]PIE: New page: PIE session: hall (Oct 10, 2019, 9:01:04 AM)
+[2019.10.10-19.01.04:750][846]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-19.01.04:752][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001230s)
+[2019.10.10-19.01.04:752][846]LogAIModule: Creating AISystem for world hall
+[2019.10.10-19.01.04:752][846]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2019.10.10-19.01.04:752][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001929s)
+[2019.10.10-19.01.04:784][846]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-19.01.04:793][846]LogInit: FAudioDevice initialized.
+[2019.10.10-19.01.04:829][846]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-19.01.04:830][846]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-14.01.04
+[2019.10.10-19.01.04:830][846]LogWorld: Bringing up level for play took: 0.000689
+[2019.10.10-19.01.04:844][846]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.24
+[2019.10.10-19.02.18:878][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-19.02.18:915][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-19.02.18:942][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-19.02.18:996][379]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.10.10-19.02.19:984][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bathroom)
+[2019.10.10-19.02.21:112][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bathroom)
+[2019.10.10-19.02.22:613][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bathroom)
+[2019.10.10-19.02.24:656][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bathroom)
+[2019.10.10-19.02.26:444][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.02.28:798][ 74]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2019.10.10-19.02.29:658][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bathroom)
+[2019.10.10-19.02.55:228][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.02.55:282][971]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-19.02.55:325][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-19.02.55:325][971]PIE: New page: PIE session: hall (Oct 10, 2019, 9:02:55 AM)
+[2019.10.10-19.02.55:326][971]LogPlayLevel: Creating play world package: /Game/Geometry/Room/UEDPIE_0_hall
+[2019.10.10-19.02.55:327][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001135s)
+[2019.10.10-19.02.55:327][971]LogAIModule: Creating AISystem for world hall
+[2019.10.10-19.02.55:327][971]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2019.10.10-19.02.55:327][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Room/hall.hall to /Game/Geometry/Room/UEDPIE_0_hall.hall (0.001811s)
+[2019.10.10-19.02.55:360][971]LogInit: XAudio2 using 'Speakers (Cirrus Logic CS4206B (AB 07))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.10-19.02.55:367][971]LogInit: FAudioDevice initialized.
+[2019.10.10-19.02.55:400][971]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-19.02.55:401][971]LogWorld: Bringing World /Game/Geometry/Room/UEDPIE_0_hall.hall up for play (max tick rate 0) at 2019.10.10-14.02.55
+[2019.10.10-19.02.55:401][971]LogWorld: Bringing up level for play took: 0.000599
+[2019.10.10-19.02.55:415][971]PIE: Play in editor start time for /Game/Geometry/Room/UEDPIE_0_hall 0.812
+[2019.10.10-19.04.56:204][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-19.04.56:247][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-19.04.56:279][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-19.04.56:306][812]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.10.10-19.04.57:314][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.05.35:634][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.05.35:742][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Room/hall" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.10-19.05.36:398][332]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/hallA0D92C8B40077C233756AC83F355C795.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall.umap'
+[2019.10.10-19.05.36:503][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Room/hall_BuiltData" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall_BuiltData.uasset" SILENT=true
+[2019.10.10-19.05.36:570][332]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/hall_BuiltDataABB0D26C465A6A30A149E8A158F83611.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/hall_BuiltData.uasset'
+[2019.10.10-19.05.45:328][727]LogSlate: Window 'Save Content' being destroyed
+[2019.10.10-19.05.45:392][727]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/door_polySurface105_PhysicsAsset84E6C3364922DEE6C7254F9B92E1B564.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/Import/Assets/door_polySurface105_PhysicsAsset.uasset'
+[2019.10.10-19.05.45:447][727]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/door_polySurface105_SkeletonA210E9034D647EE3FCDCEC85BA7450B4.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/Import/Assets/door_polySurface105_Skeleton.uasset'
+[2019.10.10-19.05.45:517][727]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/door_polySurface112_PhysicsAsset108D543E4722C3AD4E93D0932D5D390F.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/Import/Assets/door_polySurface112_PhysicsAsset.uasset'
+[2019.10.10-19.05.45:570][727]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/door_polySurface112_Skeleton0999022A45B822ABED5D2CA68C18BB26.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/Import/Assets/door_polySurface112_Skeleton.uasset'
+[2019.10.10-19.05.45:637][727]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/door_polySurface113_PhysicsAsset5DDBA8524E855BDC4A2FEB991F89E8E9.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/Import/Assets/door_polySurface113_PhysicsAsset.uasset'
+[2019.10.10-19.05.45:687][727]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/door_polySurface113_SkeletonCAD4C6D14D9584E9C1A3558D8C705CCB.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/Import/Assets/door_polySurface113_Skeleton.uasset'
+[2019.10.10-19.05.45:710][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Room/Import/Assets/lambert1" FILE="D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/Import/Assets/lambert1.uasset" SILENT=true
+[2019.10.10-19.05.45:742][727]LogSavePackage: Moving 'D:/AuroraPrototype/AuroraTest2 4.19/Saved/lambert1EFF7682C417BDBBA7F41C196371E2999.tmp' to 'D:/AuroraPrototype/AuroraTest2 4.19/Content/Geometry/Room/Import/Assets/lambert1.uasset'
+[2019.10.10-19.05.46:259][727]LogSlate: Window 'Test2 - Unreal Editor' being destroyed
+[2019.10.10-19.05.46:514][728]Cmd: QUIT_EDITOR
+[2019.10.10-19.05.46:679][728]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.10-19.05.46:702][728]LogExit: Preparing to exit.
+[2019.10.10-19.05.47:599][728]LogExit: Editor shut down
+[2019.10.10-19.05.47:601][728]LogExit: Transaction tracking system shut down
+[2019.10.10-19.05.48:400][728]LogExit: Object subsystem successfully closed.
+[2019.10.10-19.05.48:414][728]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.10-19.05.48:419][728]LogD3D11RHI: Shutdown
+[2019.10.10-19.05.48:419][728]LogD3D11RHI: CleanupD3DDevice
+[2019.10.10-19.05.48:426][728]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.10-19.05.48:441][728]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (624)
+[2019.10.10-19.05.48:441][728]LogModuleManager: Shutting down and abandoning module PinnedCommandList (622)
+[2019.10.10-19.05.48:441][728]LogModuleManager: Shutting down and abandoning module SkeletonEditor (620)
+[2019.10.10-19.05.48:441][728]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (618)
+[2019.10.10-19.05.48:441][728]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2019.10.10-19.05.48:441][728]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2019.10.10-19.05.48:441][728]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2019.10.10-19.05.48:442][728]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.10.10-19.05.48:442][728]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.10.10-19.05.48:442][728]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.10.10-19.05.48:443][728]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.10.10-19.05.48:444][728]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.10.10-19.05.48:444][728]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.10.10-19.05.48:451][728]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.10.10-19.05.48:451][728]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.10.10-19.05.48:451][728]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.10.10-19.05.48:452][728]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.10.10-19.05.48:453][728]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.10.10-19.05.49:886][728]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.10.10-19.05.49:886][728]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.10.10-19.05.49:886][728]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.10.10-19.05.49:886][728]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.10.10-19.05.49:886][728]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.10.10-19.05.49:886][728]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.10.10-19.05.49:886][728]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.10.10-19.05.49:886][728]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.10.10-19.05.49:886][728]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.10.10-19.05.49:886][728]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.10.10-19.05.49:886][728]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.10.10-19.05.49:887][728]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.10.10-19.05.49:887][728]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.10.10-19.05.49:887][728]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.10.10-19.05.49:887][728]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.10.10-19.05.49:887][728]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.10.10-19.05.49:887][728]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.10.10-19.05.49:887][728]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.10.10-19.05.49:887][728]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.10.10-19.05.49:887][728]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.10.10-19.05.49:887][728]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.10.10-19.05.49:887][728]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.10.10-19.05.49:953][728]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.10.10-19.05.49:953][728]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.10.10-19.05.49:953][728]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.10.10-19.05.49:953][728]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.10.10-19.05.49:953][728]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.10.10-19.05.49:953][728]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.10.10-19.05.49:953][728]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.10.10-19.05.49:953][728]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.10.10-19.05.49:953][728]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.10.10-19.05.49:953][728]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.10.10-19.05.49:960][728]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.10.10-19.05.49:960][728]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.10.10-19.05.49:962][728]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.10.10-19.05.49:963][728]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.10.10-19.05.49:963][728]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.10.10-19.05.49:963][728]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.10.10-19.05.49:963][728]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.10.10-19.05.49:963][728]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.10.10-19.05.50:131][728]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.10.10-19.05.50:132][728]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.10.10-19.05.50:132][728]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.10.10-19.05.50:132][728]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.10.10-19.05.50:135][728]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.10.10-19.05.50:135][728]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.10.10-19.05.50:135][728]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.10.10-19.05.50:135][728]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.10.10-19.05.50:135][728]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.10.10-19.05.50:135][728]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.10.10-19.05.50:135][728]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.10.10-19.05.50:135][728]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.10.10-19.05.50:135][728]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.10.10-19.05.50:135][728]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.10.10-19.05.50:135][728]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.10.10-19.05.50:135][728]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.10.10-19.05.50:156][728]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.10.10-19.05.50:156][728]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.10.10-19.05.50:156][728]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.10.10-19.05.50:157][728]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.10.10-19.05.50:258][728]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.10.10-19.05.50:359][728]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.10.10-19.05.50:359][728]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.10.10-19.05.50:359][728]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.10.10-19.05.50:359][728]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.10.10-19.05.50:359][728]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.10.10-19.05.50:359][728]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.10.10-19.05.50:359][728]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.10.10-19.05.50:359][728]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.10.10-19.05.50:359][728]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.10.10-19.05.50:359][728]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.10.10-19.05.50:359][728]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.10.10-19.05.50:359][728]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.10.10-19.05.50:362][728]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.10.10-19.05.50:362][728]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.10-19.05.50:362][728]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.10.10-19.05.50:362][728]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.10.10-19.05.50:362][728]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.10.10-19.05.50:362][728]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.10.10-19.05.50:364][728]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.10.10-19.05.50:370][728]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.10.10-19.05.50:370][728]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.10.10-19.05.50:370][728]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.10.10-19.05.50:370][728]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.10.10-19.05.50:370][728]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.10.10-19.05.50:370][728]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.10.10-19.05.50:370][728]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.10.10-19.05.50:370][728]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.10.10-19.05.50:370][728]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.10.10-19.05.50:370][728]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.10.10-19.05.50:370][728]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.10.10-19.05.50:370][728]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.10.10-19.05.50:371][728]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.10.10-19.05.50:371][728]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.10.10-19.05.50:371][728]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.10.10-19.05.50:371][728]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.10.10-19.05.50:371][728]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.10.10-19.05.50:371][728]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.10.10-19.05.50:371][728]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.10.10-19.05.50:371][728]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.10.10-19.05.50:373][728]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.10.10-19.05.50:448][728]LogDerivedDataCache: Shutdown
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.10.10-19.05.50:448][728]LogXGEController: Cleaning working directory: C:/Users/daniel.collins/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.10.10-19.05.50:448][728]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.10.10-19.05.50:450][728]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.10.10-19.05.50:450][728]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.10.10-19.05.50:452][728]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.10.10-19.05.50:452][728]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.10.10-19.05.50:467][728]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.10.10-19.05.50:468][728]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.10.10-19.05.50:468][728]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.10.10-19.05.50:492][728]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.10.10-19.05.50:492][728]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.10-19.05.50:492][728]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B78C7D152-4693-746D-3B63-A28D828F5E87%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=cf06a38f43e630f53629f8bdae1b10c3%7C5aa0054c04d3494797f037ad2780d19c%7C79b1556e-977f-4714-b3d2-96fb725b503e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.10-19.05.50:519][728]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.10.10-19.05.50:521][728]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.10.10-19.05.50:521][728]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.10.10-19.05.50:523][728]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.10.10-19.05.50:523][728]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.10.10-19.05.50:523][728]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.10.10-19.05.50:523][728]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.10.10-19.05.50:523][728]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.10.10-19.05.50:523][728]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.10.10-19.05.50:523][728]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.10.10-19.05.50:523][728]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.10.10-19.05.50:523][728]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.10.10-19.05.50:523][728]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.10.10-19.05.50:523][728]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.10.10-19.05.50:529][728]LogExit: Exiting.
+[2019.10.10-19.05.50:565][728]Log file closed, 10/10/19 14:05:50
